@@ -1,0 +1,247 @@
+{
+ "navCls": "flex justify-between",
+ "groups": [
+  {
+   "cls": "flex gap-3",
+   "items": [
+    {
+     "tag": "button",
+     "label": "Security Cameras",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Robot Vaccums",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Charging",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Headphones",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Speakers",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Projectors",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Baby",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    }
+   ]
+  },
+  {
+   "cls": "flex gap-3",
+   "items": [
+    {
+     "tag": "button",
+     "label": "Deals",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "New Release",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "About Anker Nordics",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    },
+    {
+     "tag": "button",
+     "label": "Help and Support",
+     "href": null,
+     "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4"
+    }
+   ]
+  }
+ ],
+ "compact": {
+  "tag": "div",
+  "cls": "h-[52px] desktop:hidden block !bg-white ipc_container relative z-10 w-full",
+  "a": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 none none none",
+    "a": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "flex h-full items-center justify-between gap-4",
+      "a": {},
+      "kids": [
+       {
+        "tag": "a",
+        "cls": "hover:text-brand-0 [&>svg]:w-full",
+        "a": {
+         "href": "/",
+         "aria-label": "Home"
+        },
+        "kids": [
+         {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "a": {},
+          "kids": [
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           },
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           },
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           },
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "tag": "div",
+        "cls": "desktop:gap-6 flex items-center gap-4",
+        "a": {},
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "desktop:gap-6 flex items-center gap-4",
+          "a": {},
+          "kids": [
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "Search"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {},
+                "kids": [
+                 {
+                  "tag": "path",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {}
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "Shopping cart"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {},
+                "kids": [
+                 {
+                  "tag": "path",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {}
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "tag": "button",
+          "cls": "cursor-pointer border-0 bg-transparent p-0",
+          "a": {
+           "aria-label": "Open menu"
+          },
+          "kids": [
+           {
+            "tag": "svg",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": [
+             {
+              "tag": "rect",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "rect",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "rect",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

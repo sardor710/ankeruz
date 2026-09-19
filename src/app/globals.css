@@ -7,9 +7,29 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
+  --font-sans: var(--font-mont), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, monospace;
   --font-heading: var(--font-sans);
+
+  /* --- ankernordics.com palette (measured via getComputedStyle) --------------
+     The target defines ZERO custom properties on :root — every colour is a
+     literal inside a Tailwind utility. These names are ours; the values are theirs.
+     Counts below are occurrences across the rendered homepage. */
+  --color-ink: var(--ink); /* #080A0F  primary text (276x) + dark section bg (49x) */
+  --color-ink-soft: var(--ink-soft); /* #2A2C32  secondary text (29x) */
+  --color-ink-dim: var(--ink-dim); /* #1E2024  dark grey text (9x) */
+  --color-ink-muted: var(--ink-muted); /* #B6B6BA  muted text (28x) */
+  --color-on-dark: var(--on-dark); /* #F5F6F7  text on dark surfaces (18x) */
+  --color-surface: var(--surface); /* #FFFFFF */
+  --color-surface-alt: var(--surface-alt); /* #F5F5F7  section bg (36x) */
+  --color-surface-card: var(--surface-card); /* #EAEAEC  card bg (65x, most common) */
+  --color-surface-tint: var(--surface-tint); /* #F7F8F9 */
+  --color-rule: var(--rule); /* #EAEAEC  hairlines */
+  --color-rule-dark: var(--rule-dark); /* #3D3E3F  hairlines on dark */
+
+  /* Radii: the site uses two, heavily — 14px (92x) and 16px (63x). */
+  --radius-card: 14px;
+  --radius-panel: 16px;
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -49,8 +69,28 @@
 }
 
 :root {
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
+  /* Measured from ankernordics.com. Kept as hex — these are exact sampled values
+     and converting to oklch would only introduce rounding drift. */
+  --ink: #080a0f;
+  --ink-soft: #2a2c32;
+  --ink-dim: #1e2024;
+  --ink-muted: #b6b6ba;
+  --on-dark: #f5f6f7;
+  --surface: #ffffff;
+  --surface-alt: #f5f5f7;
+  --surface-card: #eaeaec;
+  --surface-tint: #f7f8f9;
+  --rule: #eaeaec;
+  --rule-dark: #3d3e3f;
+
+  /* Sticky header stack geometry, measured at scroll 0 -> 400.
+     Brand bar is flow content (scrolls away); the other two pin. */
+  --announce-h: 45px;
+  --header-h: 96px;
+  --header-stack-h: 141px; /* announce + header, the resting offset */
+
+  --background: var(--surface);
+  --foreground: var(--ink);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.145 0 0);
   --popover: oklch(1 0 0);
@@ -121,10 +161,36 @@
   * {
     @apply border-border outline-ring/50;
   }
-  body {
-    @apply bg-background text-foreground;
-  }
   html {
     @apply font-sans;
+    /* ankernordics.com sets html { font-size: 14px }. Tailwind's rem-based scale
+       therefore resolves to 0.875x the default everywhere on the target:
+         text-sm 12.25px | size-5 17.5px | gap-3 10.5px
+         px-5    17.5px  | px-16  56px   | gap-4 14px  | pb-4 14px
+       Matching it here means class strings lifted verbatim from the target render
+       at the same pixel sizes, instead of 14% too large. Verified by probing a
+       synthetic `p-4` element on the live page (resolved to 14px, not 16px).
+       Do not "fix" this to 16px — it would silently break every ported class. */
+    font-size: 14px;
   }
+  body {
+    /* 14px / 21px (1.5) — i.e. 1rem / 1.5rem at the 14px root above. */
+    @apply bg-background text-foreground;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  /* The site tracks every heading at a uniform -0.04em:
+     48px -> -1.92px, 24px -> -0.96px, 18px -> -0.72px. */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    letter-spacing: -0.04em;
+  }
+}
+
+@utility tracking-anker {
+  letter-spacing: -0.04em;
 }

@@ -1,0 +1,587 @@
+{
+ "vw": 1440,
+ "sectionCls": "ipc_container relative z-10 w-full",
+ "h": 264.5,
+ "slideCls": "swiper-slide swiper-slide-active !h-[unset]",
+ "slideW": 316,
+ "wrapperCls": "swiper-wrapper",
+ "count": 32,
+ "cats": [
+  {
+   "label": "Outdoor Cameras",
+   "file": "b5c7b7a4-ecaa-4d25-b2fb-82724ee79225_Outdoor_Camer",
+   "href": "https://www.ankernordics.com/collections/outdoor-cameras",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Robot Vacuum",
+   "file": "9fcb3933-c52a-4137-bd96-c0375085f98f_Frame_2121236",
+   "href": "https://www.ankernordics.com/collections/robot-vacuum",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Lawn Mowers",
+   "file": "2596d36d-467b-4634-a91d-deaa1995a9d3_Lawn_Mowers_-",
+   "href": "https://www.ankernordics.com/collections/lawn-mower",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Sleep Earbuds",
+   "file": "d8992fa3-d9ea-42d9-88db-f9ac1dec4afe_image_2_cc869",
+   "href": "https://www.ankernordics.com/collections/sleep-earbuds",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Power Banks",
+   "file": "e43811d1-a6e0-4115-a8cc-15e32d0b1f4e_Power_Banks_-",
+   "href": "https://www.ankernordics.com/collections/power-banks",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Chargers",
+   "file": "37cdda9d-3a7f-4764-8fb5-304b27a8f362_Chargers_---_",
+   "href": "https://www.ankernordics.com/collections/chargers",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Cables",
+   "file": "c023e02d-c011-44f7-aa75-ee549c92aec2_Cables_---_A8",
+   "href": "https://www.ankernordics.com/collections/cables",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Hubs and Docks",
+   "file": "634a074c-5a7f-4700-af15-5ab2a8255bdf_Hubs_and_Dock",
+   "href": "https://www.ankernordics.com/collections/hubs-and-docks",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Wireless Chargers",
+   "file": "f106c0b9-fb0c-4758-89b5-fb4745470560_Wireless_Char",
+   "href": "https://www.ankernordics.com/collections/wireless-chargers",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "AC Power",
+   "file": "953d149b-625e-4fc6-809d-849a16e91d4c_AC_Power_---_",
+   "href": "https://www.ankernordics.com/collections/ac-power",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Car Chargers",
+   "file": "d9092695-10db-4886-aea2-05648a698feb_Car_Chargers_",
+   "href": "https://www.ankernordics.com/collections/car-chargers",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Smart Lights",
+   "file": "7e19d813-66e0-4868-b376-fa55969a994d_Smart_Lights_",
+   "href": "https://www.ankernordics.com/collections/outdoor-light",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Breast Pumps",
+   "file": "00134846-f329-4b97-ab05-1857ec1fb1c4_Breast_Pumps_",
+   "href": "https://www.ankernordics.com/collections/baby-1",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "eufy Cleaning Accessories",
+   "file": "53c4aa16-56e6-4087-b5be-34ccf3e15679_Frame_2121236",
+   "href": "https://www.ankernordics.com/collections/ap-accessory",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "HomeBase",
+   "file": "ca6514fd-d26e-4ad2-9519-ae891e922fee_HomeBase_---_",
+   "href": "https://www.ankernordics.com/collections/homebase",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Smart Displays",
+   "file": "f50a7025-97be-4d6f-b31b-cfac7647529e_Smart_Display",
+   "href": "https://www.ankernordics.com/collections/smart-display",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "PoE Cameras",
+   "file": "35ca0a39-f76f-4da5-8a1c-e7c769aa2272_PoE_Cameras_-",
+   "href": "https://www.ankernordics.com/collections/poe-cameras",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Indoor Cameras",
+   "file": "e2c5d751-6be8-4196-8248-18f328f20d54_Indoor_Camera",
+   "href": "https://www.ankernordics.com/collections/Indoor-cameras",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Voice Recorders",
+   "file": "2639e1bf-9ade-4357-9f50-767127b9f844_Voice_Recorde",
+   "href": "https://www.ankernordics.com/products/d3200",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Truly Wireless Earbuds",
+   "file": "27850d6f-618d-47ff-b95f-98fce4cbb786_True_Wireless",
+   "href": "https://www.ankernordics.com/collections/true-wireless-earbuds",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Open-Ear Earbuds",
+   "file": "2cb7f4fe-2f13-46eb-847b-43c04448f1a8_Open-Ear_Earb",
+   "href": "https://www.ankernordics.com/collections/open-ear-headphones",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Open-Ear Headphones",
+   "file": "08d52a71-1b9a-4893-9824-ee964ad26cca_image_3_-1_38",
+   "href": "https://www.ankernordics.com/collections/headphones",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Speakers",
+   "file": "385dea93-f4a2-4027-bf51-9b2447c96c5d_Speakers_---_",
+   "href": "https://www.ankernordics.com/collections/speakers",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Projectors",
+   "file": "f32f981e-80f1-41ee-9346-2ca9b57484c0_Smart_Project",
+   "href": "https://www.ankernordics.com/collections/projectors",
+   "picCls": "block overflow-hidden laptop:size-1/2 tablet:size-[72px] desktop:size-[116px] lg-desktop:s",
+   "imgBox": [
+    116,
+    116
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "14px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Outdoor Cameras",
+   "file": "b5c7b7a4-ecaa-4d25-b2fb-82724ee79225_Outdoor_Camer",
+   "href": "https://www.ankernordics.com/collections/outdoor-cameras",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Sleep Earbuds",
+   "file": "d8992fa3-d9ea-42d9-88db-f9ac1dec4afe_image_2_cc869",
+   "href": "https://www.ankernordics.com/collections/sleep-earbuds",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Cables",
+   "file": "c023e02d-c011-44f7-aa75-ee549c92aec2_Cables_---_A8",
+   "href": "https://www.ankernordics.com/collections/cables",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "AC Power",
+   "file": "953d149b-625e-4fc6-809d-849a16e91d4c_AC_Power_---_",
+   "href": "https://www.ankernordics.com/collections/ac-power",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Breast Pumps",
+   "file": "00134846-f329-4b97-ab05-1857ec1fb1c4_Breast_Pumps_",
+   "href": "https://www.ankernordics.com/collections/baby-1",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Smart Displays",
+   "file": "f50a7025-97be-4d6f-b31b-cfac7647529e_Smart_Display",
+   "href": "https://www.ankernordics.com/collections/smart-display",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Voice Recorders",
+   "file": "2639e1bf-9ade-4357-9f50-767127b9f844_Voice_Recorde",
+   "href": "https://www.ankernordics.com/products/d3200",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  },
+  {
+   "label": "Open-Ear Headphones",
+   "file": "08d52a71-1b9a-4893-9824-ee964ad26cca_image_3_-1_38",
+   "href": "https://www.ankernordics.com/collections/headphones",
+   "picCls": "block overflow-hidden m-auto mb-2 flex justify-center object-contain [&_img]:h-full [&_img",
+   "imgBox": [
+    0,
+    0
+   ],
+   "pCs": {
+    "fs": "12.25px",
+    "fw": "700",
+    "lh": "17.5px",
+    "col": "rgb(8, 10, 15)",
+    "ta": "center",
+    "mt": "0px"
+   }
+  }
+ ]
+}

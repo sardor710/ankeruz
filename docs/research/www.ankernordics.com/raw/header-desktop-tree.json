@@ -1,0 +1,889 @@
+{
+ "desktopVariant": {
+  "tag": "div",
+  "cls": "h-[96px] desktop:block hidden !bg-white ipc_container relative z-10 w-full",
+  "a": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 none none none",
+    "a": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "flex h-full flex-col justify-end gap-4",
+      "a": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "flex items-center justify-between",
+        "a": {},
+        "kids": [
+         {
+          "tag": "a",
+          "cls": "hover:text-brand-0 [&>svg]:w-full",
+          "a": {
+           "href": "/",
+           "aria-label": "Home"
+          },
+          "kids": [
+           {
+            "tag": "svg",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": [
+             {
+              "tag": "path",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "path",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "path",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "path",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "desktop:gap-6 flex items-center gap-4",
+          "a": {},
+          "kids": [
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "Search"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {},
+                "kids": [
+                 {
+                  "tag": "path",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": []
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "Shopping cart"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {},
+                "kids": [
+                 {
+                  "tag": "path",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": []
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "User profile"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {},
+                "kids": [
+                 {
+                  "tag": "path",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": []
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "tag": "nav",
+        "cls": "flex justify-between",
+        "a": {
+         "aria-label": "Primary navigation"
+        },
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "flex gap-3",
+          "a": {},
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Security Cameras"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Security Cameras",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Robot Vaccums"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Robot Vaccums",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Charging"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Charging",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Headphones"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Headphones",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Speakers"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Speakers",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Projectors"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Projectors",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Baby"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Baby",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "flex gap-3",
+          "a": {},
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Deals"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Deals",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "New Release"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "New Release",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "About Anker Nordics"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "About Anker Nordics",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "group",
+            "a": {},
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "relative",
+              "a": {},
+              "kids": [
+               {
+                "tag": "button",
+                "cls": "flex cursor-pointer items-center gap-1 border-0 bg-transparent pb-4",
+                "a": {
+                 "aria-label": "Help and Support"
+                },
+                "kids": [
+                 {
+                  "tag": "span",
+                  "cls": "text-pretty tracking-[-0.02em] tracking text-sm font-bold leading-[1.4]",
+                  "text": "Help and Support",
+                  "a": {},
+                  "kids": []
+                 },
+                 {
+                  "tag": "svg",
+                  "cls": "[object SVGAnimatedString]",
+                  "a": {},
+                  "kids": [
+                   {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "a": {}
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "tag": "div",
+                "cls": "absolute bottom-0 left-0 h-[2px] w-0 transition-all duration-500 bg-[#080A0F]",
+                "a": {},
+                "kids": []
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "tag": "div",
+      "cls": "absolute left-0 top-full z-[999] w-full flex-col overflow-hidden border-t border-b-[#E4E5E6] bg-black/70 text-black hidden",
+      "a": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "relative z-50 overflow-hidden",
+        "a": {},
+        "kids": []
+       },
+       {
+        "tag": "div",
+        "cls": "flex-1 bg-transparent",
+        "a": {
+         "aria-label": "Close menu"
+        },
+        "kids": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "compactVariant": {
+  "tag": "div",
+  "cls": "h-[52px] desktop:hidden block !bg-white ipc_container relative z-10 w-full",
+  "a": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 none none none",
+    "a": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "flex h-full items-center justify-between gap-4",
+      "a": {},
+      "kids": [
+       {
+        "tag": "a",
+        "cls": "hover:text-brand-0 [&>svg]:w-full",
+        "a": {
+         "href": "/",
+         "aria-label": "Home"
+        },
+        "kids": [
+         {
+          "tag": "svg",
+          "cls": "[object SVGAnimatedString]",
+          "a": {},
+          "kids": [
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           },
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           },
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           },
+           {
+            "tag": "path",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": []
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "tag": "div",
+        "cls": "desktop:gap-6 flex items-center gap-4",
+        "a": {},
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "desktop:gap-6 flex items-center gap-4",
+          "a": {},
+          "kids": [
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "Search"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {}
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "tag": "button",
+            "cls": "relative cursor-pointer border-0 bg-transparent p-0",
+            "a": {
+             "aria-label": "Shopping cart"
+            },
+            "kids": [
+             {
+              "tag": "span",
+              "cls": "text-pretty tracking-[-0.02em] tracking font-bold size-5",
+              "a": {},
+              "kids": [
+               {
+                "tag": "svg",
+                "cls": "[object SVGAnimatedString]",
+                "a": {}
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "tag": "button",
+          "cls": "cursor-pointer border-0 bg-transparent p-0",
+          "a": {
+           "aria-label": "Open menu"
+          },
+          "kids": [
+           {
+            "tag": "svg",
+            "cls": "[object SVGAnimatedString]",
+            "a": {},
+            "kids": [
+             {
+              "tag": "rect",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "rect",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             },
+             {
+              "tag": "rect",
+              "cls": "[object SVGAnimatedString]",
+              "a": {},
+              "kids": []
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

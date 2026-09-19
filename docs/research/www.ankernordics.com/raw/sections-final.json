@@ -1,0 +1,194 @@
+{
+ "vw": 1920,
+ "s12": {
+  "h": 710,
+  "heading": {
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1664,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "gridCls": "laptop:gap-4 grid grid-cols-12 gap-3 w-full",
+  "panels": [
+   {
+    "t": "Pan-Tilt-Zoom Cameras",
+    "d": "",
+    "img": "a41385e5-a4d7-420a-ada1-ced25a2d083f_Frame_241_3840x.png",
+    "href": "https://www.ankernordics.com/ptz-cam",
+    "w": 825,
+    "h2": 641
+   },
+   {
+    "t": "Robot Vacuum",
+    "d": "",
+    "img": "ec53e5f4-d915-4625-bd49-1d13bbe5d60f_Frame_2499_3840x.png",
+    "href": "https://www.ankernordics.com/collections/robot-vacuum",
+    "w": 825,
+    "h2": 641
+   }
+  ]
+ },
+ "s35": {
+  "h": 549,
+  "heading": {
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1664,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "cards": [
+   {
+    "t": "Anker providing powerful energy to keep the journey going.",
+    "d": "Anker providing powerful energy to keep the journey going.",
+    "img": "26be05b9-1580-4355-b721-26f6808cc45a_Mask_group-5_3840x.png",
+    "href": "https://www.youtube.com/watch",
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "Happy Father’s Day from eufy to the heroes who always know",
+    "d": "",
+    "img": "f4da00ca-5526-4686-b030-1de576c53282_Frame_2121235191_3840x.png",
+    "href": null,
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "If you want portable power proven under the harshest conditions, Anker delivers.",
+    "d": "If you want portable power proven under the harshest conditions, Anker delivers.",
+    "img": "912d9cdb-9fe2-45d5-a51f-cad5ac987dc2_Mask_group-7_3840x.png",
+    "href": "https://www.youtube.com/watch",
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "Celebrating Dads with eufy this Father’s Day.",
+    "d": "Celebrating Dads with eufy this Father’s Day.",
+    "img": "04206c46-b4ae-4872-8559-c38bca08de81_Frame_2121235189-3_3840x.png",
+    "href": "https://www.youtube.com/watch",
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "soundcore Liberty 4: You've Gotta Hear Them For Yourself!",
+    "d": "soundcore Liberty 4: You've Gotta Hear Them For Yourself!",
+    "img": "ca30e632-630a-4f9f-b316-e910c53d433c_endorse-2-mobile_3840x.webp",
+    "href": "https://www.youtube.com/watch",
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "This Robot Lawn Mower Just Changed Everything!",
+    "d": "This Robot Lawn Mower Just Changed Everything!",
+    "img": "31862e17-d1a0-4bab-a33c-338cb225402d_Frame_2121235741_3840x.png",
+    "href": "https://www.youtube.com/watch",
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "The Longest Lasting Headphones!",
+    "d": "The Longest Lasting Headphones!",
+    "img": "18ae78b1-1023-45f9-8c3e-a670d8466c80_endorse-1-mobile_3840x.webp",
+    "href": "https://www.youtube.com/shorts/hE6wAfGDhK8",
+    "w": 404,
+    "h2": 480
+   },
+   {
+    "t": "Still picking up hair every day? Give the eufy E28 a try.",
+    "d": "",
+    "img": "fad2daab-1342-40b3-968e-9223c05ae1e9_Frame_2121235739_3840x.png",
+    "href": null,
+    "w": 404,
+    "h2": 480
+   }
+  ]
+ },
+ "s38": {
+  "h": 501,
+  "cls": "block-style_2sam9qb",
+  "cards": [
+   {
+    "t": "Projektor utomhus till VM 2026: Välj rätt modell för din trädgård, balkong eller sommarstuga",
+    "d": "Learn More",
+    "img": "1/0917/4807/3750/articles/image1_e3bfa34c-89a2-4aad-aa40-03fb298b3245_3840x.jpg",
+    "href": "https://www.ankernordics.com/blogs/se/projectors/outdoor-cinema-projector-for-world-cup",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "Projektor bäst i test 2026 – Topp 5 för VM och hemmabio",
+    "d": "Learn More",
+    "img": "1/0917/4807/3750/articles/image1_8dcb1283-4995-4bb9-9a67-68b59afc4bd2_3840x.png",
+    "href": "https://www.ankernordics.com/blogs/se/projectors/projector-best-in-test-world-cup",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "Bästa mini projektorn för VM 2026: Topp 5 att titta på fotboll med",
+    "d": "Learn More",
+    "img": "1/0917/4807/3750/articles/1ec53e0e-4f69-4972-a945-fcdc0d9cbca8.__CR0_0_2196_900_PT0_SX1464_V1_16bac4e5-70f7-422b-b99f-01db868caffa_3840x.jpg",
+    "href": "https://www.ankernordics.com/blogs/se/projectors/best-mini-projector-world-cup",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "Golvet luktar illa efter moppning: Fem orsaker och lösningar",
+    "d": "Learn More",
+    "img": "7481da2b-f5a2-43c9-b529-ac0358559616_Frame_4_1_-1_3840x.png",
+    "href": "https://www.ankernordics.com/blogs/se/robot-vacuum/floor-smells-after-mopping",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "Så här ansluter du din telefon till TV:n med en USB-C till HDMI-adapter",
+    "d": "Learn More",
+    "img": "6a80ff99-45b1-4cef-b5a1-e0d2e5bfa6d2_Frame_10_3840x.png",
+    "href": "https://www.ankernordics.com/blogs/se/chargers/connect-phone-to-tv-using-usb-c-to-hdmi-solution",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "45W vs 65W laddare för telefon: Vilken bör du välja?",
+    "d": "Learn More",
+    "img": "a53d9e59-14ad-449b-a94b-28ef66561d37_Frame_12_3_3840x.png",
+    "href": "https://www.ankernordics.com/blogs/se/chargers/45w-vs-65w-charger-for-phone-comparison",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "45W vs 30W laddningshastighet: Hur mycket tid sparar du egentligen?",
+    "d": "Learn More",
+    "img": "79b9806e-7a1b-430a-9945-5cdb73a80e8f_Frame_13-3_3840x.png",
+    "href": "https://www.ankernordics.com/blogs/se/chargers/45w-vs-30w-charging-speed-iphone",
+    "w": 824,
+    "h2": 480
+   },
+   {
+    "t": "Är en 45W-laddare bättre för daglig laddning av iPhone? Hastighet och batterihälsa",
+    "d": "Learn More",
+    "img": "7dd55546-6e17-4b7b-94cf-5d4041de8373_Frame_14-2_3840x.png",
+    "href": "https://www.ankernordics.com/blogs/se/chargers/45w-charger-for-daily-iphone-charging",
+    "w": 824,
+    "h2": 480
+   }
+  ]
+ }
+}

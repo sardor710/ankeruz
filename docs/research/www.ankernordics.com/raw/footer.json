@@ -1,0 +1,410 @@
+{
+ "vw": 1920,
+ "h": 1207,
+ "cls": "block-style_4q5q4x",
+ "bg": "rgba(0, 0, 0, 0)",
+ "col": "rgb(0, 0, 0)",
+ "heads": [],
+ "cols": [
+  {
+   "head": "Company",
+   "links": [
+    {
+     "t": "Company Profile",
+     "href": "https://www.ankernordics.com/about"
+    },
+    {
+     "t": "Press Room",
+     "href": "https://via.tt.se/pressrum/3237203/anker-innovations"
+    },
+    {
+     "t": "Authorized Sellers",
+     "href": "https://www.ankernordics.com/wheretobuy"
+    },
+    {
+     "t": "Get support",
+     "href": "https://www.ankernordics.com/contact-us"
+    },
+    {
+     "t": "Terms of Use",
+     "href": "https://www.ankernordics.com/policies/terms-of-service"
+    },
+    {
+     "t": "Blogs",
+     "href": "https://www.ankernordics.com/blogs/se"
+    }
+   ]
+  },
+  {
+   "head": "Company",
+   "links": [
+    {
+     "t": "Company Profile",
+     "href": "https://www.ankernordics.com/about"
+    },
+    {
+     "t": "Press Room",
+     "href": "https://via.tt.se/pressrum/3237203/anker-innovations"
+    },
+    {
+     "t": "Authorized Sellers",
+     "href": "https://www.ankernordics.com/wheretobuy"
+    },
+    {
+     "t": "Get support",
+     "href": "https://www.ankernordics.com/contact-us"
+    },
+    {
+     "t": "Terms of Use",
+     "href": "https://www.ankernordics.com/policies/terms-of-service"
+    },
+    {
+     "t": "Blogs",
+     "href": "https://www.ankernordics.com/blogs/se"
+    }
+   ]
+  },
+  {
+   "head": "CompanyCompany ProfilePress Ro",
+   "links": [
+    {
+     "t": "Become An Affiliate",
+     "href": "https://www.ankernordics.com/become-an-affiliate"
+    },
+    {
+     "t": "Cooperate Purchase",
+     "href": "https://www.ankernordics.com/corporate-purchase"
+    },
+    {
+     "t": "New Membership",
+     "href": "https://www.ankernordics.com/newcustomer"
+    },
+    {
+     "t": "AnkernordicCredits Program",
+     "href": "https://www.ankernordics.com/ankernordiccredits-program"
+    },
+    {
+     "t": "Refurbished Products",
+     "href": "https://www.ankernordics.com/collections/refurbished"
+    }
+   ]
+  },
+  {
+   "head": "Program",
+   "links": [
+    {
+     "t": "Become An Affiliate",
+     "href": "https://www.ankernordics.com/become-an-affiliate"
+    },
+    {
+     "t": "Cooperate Purchase",
+     "href": "https://www.ankernordics.com/corporate-purchase"
+    },
+    {
+     "t": "New Membership",
+     "href": "https://www.ankernordics.com/newcustomer"
+    },
+    {
+     "t": "AnkernordicCredits Program",
+     "href": "https://www.ankernordics.com/ankernordiccredits-program"
+    },
+    {
+     "t": "Refurbished Products",
+     "href": "https://www.ankernordics.com/collections/refurbished"
+    }
+   ]
+  },
+  {
+   "head": "ProgramBecome An AffiliateCoop",
+   "links": [
+    {
+     "t": "Order Tracking",
+     "href": "https://service.anker.com/eu/logistics"
+    },
+    {
+     "t": "Order Cancel",
+     "href": "https://passport.ankernordics.com/search-orders"
+    },
+    {
+     "t": "Support Center",
+     "href": "https://www.ankernordics.com/support"
+    },
+    {
+     "t": "Process a Warranty",
+     "href": "https://www.ankernordics.com/exchange"
+    },
+    {
+     "t": "Returns & Refunds",
+     "href": "https://www.ankernordics.com/policies/refund-policy"
+    },
+    {
+     "t": "Shipping Policy",
+     "href": "https://www.ankernordics.com/policies/shipping-policy"
+    },
+    {
+     "t": "Privacy Policy",
+     "href": "https://www.ankernordics.com/policies/privacy-policy"
+    },
+    {
+     "t": "Product Recall",
+     "href": "https://www.ankernordics.com/rc2506"
+    }
+   ]
+  },
+  {
+   "head": "Support",
+   "links": [
+    {
+     "t": "Order Tracking",
+     "href": "https://service.anker.com/eu/logistics"
+    },
+    {
+     "t": "Order Cancel",
+     "href": "https://passport.ankernordics.com/search-orders"
+    },
+    {
+     "t": "Support Center",
+     "href": "https://www.ankernordics.com/support"
+    },
+    {
+     "t": "Process a Warranty",
+     "href": "https://www.ankernordics.com/exchange"
+    },
+    {
+     "t": "Returns & Refunds",
+     "href": "https://www.ankernordics.com/policies/refund-policy"
+    },
+    {
+     "t": "Shipping Policy",
+     "href": "https://www.ankernordics.com/policies/shipping-policy"
+    },
+    {
+     "t": "Privacy Policy",
+     "href": "https://www.ankernordics.com/policies/privacy-policy"
+    },
+    {
+     "t": "Product Recall",
+     "href": "https://www.ankernordics.com/rc2506"
+    }
+   ]
+  }
+ ],
+ "inputs": [
+  {
+   "type": "text",
+   "ph": "Email",
+   "name": "email"
+  },
+  {
+   "type": "checkbox",
+   "ph": "",
+   "name": "terms"
+  },
+  {
+   "type": "checkbox",
+   "ph": "",
+   "name": "news"
+  }
+ ],
+ "btns": [
+  {
+   "t": "✕",
+   "cls": "absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 hidden",
+   "w": 0,
+   "h": 0,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(156, 163, 175)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "none"
+  },
+  {
+   "t": "Sign Up",
+   "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center focus-visible:outline-none focus-visible:ring-2 focus-visible:r",
+   "w": 101,
+   "h": 48,
+   "bg": "rgb(255, 255, 255)",
+   "col": "rgb(0, 0, 0)",
+   "fs": "16px",
+   "fw": "700",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "15px 24.5px 14px",
+   "gap": "normal",
+   "disp": "flex"
+  },
+  {
+   "t": "",
+   "cls": "ring-offset-background focus-visible:ring-ring disabled:bg-btn-primary-disabled peer shrink-0 rounded-sm border focus-visible:outl",
+   "w": 14,
+   "h": 14,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(0, 0, 0)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "1.75px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  {
+   "t": "",
+   "cls": "ring-offset-background focus-visible:ring-ring disabled:bg-btn-primary-disabled peer shrink-0 rounded-sm border focus-visible:outl",
+   "w": 14,
+   "h": 14,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(0, 0, 0)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "1.75px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  {
+   "t": "Sweden",
+   "cls": "flex w-full items-center justify-between focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-bl",
+   "w": 0,
+   "h": 0,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(0, 0, 0)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "flex"
+  },
+  {
+   "t": "Sweden",
+   "cls": "flex w-full items-center justify-between focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-bl",
+   "w": 402,
+   "h": 20,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(0, 0, 0)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "flex"
+  }
+ ],
+ "imgs": [
+  {
+   "f": "c444a821-b5fd-4863-be90-03d42973cea2_Vector_2.",
+   "alt": "",
+   "w": 18,
+   "h": 18
+  },
+  {
+   "f": "ba7d9a92-e8d9-4129-b284-a138653f6855_Union-3.p",
+   "alt": "",
+   "w": 18,
+   "h": 18
+  },
+  {
+   "f": "b5538c26-d6ec-4c86-ae9f-b0d9391e6e18_icon_supp",
+   "alt": "",
+   "w": 18,
+   "h": 18
+  },
+  {
+   "f": "58b0915e-ae10-4d74-8c66-f7f0fd7ccdae_Union_1.p",
+   "alt": "",
+   "w": 18,
+   "h": 18
+  },
+  {
+   "f": "1fe0f77d-bf39-40be-b248-8e4acda465ee_icon_voic",
+   "alt": "",
+   "w": 18,
+   "h": 18
+  },
+  {
+   "f": "daeca129-d1d2-41c5-bc5c-63825bd2b859_icon_emai",
+   "alt": "",
+   "w": 18,
+   "h": 18
+  },
+  {
+   "f": "fc22b44e-9091-4f26-9509-03eaf0ea07de_icon_inst",
+   "alt": "",
+   "w": 28,
+   "h": 28
+  },
+  {
+   "f": "6fa7695a-7d9f-4376-8fb5-5d8384f16e58_icon_TikT",
+   "alt": "",
+   "w": 28,
+   "h": 28
+  },
+  {
+   "f": "19adf251-e01e-48d6-b596-54c7186c6f99_icon_link",
+   "alt": "",
+   "w": 28,
+   "h": 28
+  },
+  {
+   "f": "09e96436-ea4d-4636-8379-ae55e51d9fb3_icon_yout",
+   "alt": "",
+   "w": 28,
+   "h": 28
+  },
+  {
+   "f": "b6292317-78e4-4797-9360-1109c841f6d2_05f313d1-",
+   "alt": "",
+   "w": 44,
+   "h": 28
+  },
+  {
+   "f": "44e56006-9853-444e-a830-ac05bf70973e_999d3679-",
+   "alt": "",
+   "w": 44,
+   "h": 28
+  },
+  {
+   "f": "f2f01bf2-9468-4c4f-a4c5-a5849b6009ec_d98b9143-",
+   "alt": "",
+   "w": 44,
+   "h": 28
+  },
+  {
+   "f": "7fe3b266-0be3-49e0-8026-64d24914c17f_eb54d220-",
+   "alt": "",
+   "w": 44,
+   "h": 28
+  },
+  {
+   "f": "dbc76403-a406-485a-9235-e36ccd3f03f9_20260408-",
+   "alt": "",
+   "w": 44,
+   "h": 28
+  }
+ ],
+ "svgCount": 7,
+ "bottomText": [
+  "Privacy Policy",
+  "Product Recall",
+  "Contact Us",
+  "Sweden: +46 20 012 33 22 (Mon-Fri, 9am-6pm)",
+  "Anker: support@anker.com Soundcore: service@soundcore.com Eufy: support@eufy.com",
+  "Sweden",
+  "Sweden",
+  "© Fantasia Trading LLC 2025 200923810277"
+ ]
+}

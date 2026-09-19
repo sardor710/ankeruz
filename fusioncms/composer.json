@@ -1,0 +1,97 @@
+{
+    "name": "fusioncms/fusioncms",
+    "description": "Create bespoke website experiences.",
+    "type": "project",
+    "keywords": [
+        "cms",
+        "fusioncms",
+        "laravel"
+    ],
+    "homepage": "https://beta.getfusioncms.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shea \"Kai\" Lewis",
+            "email": "shea@efelle.com",
+            "homepage": "https://kaidesu.com",
+            "role": "Lead Developer"
+        },
+
+        {
+            "name": "Shane Krolikowski",
+            "email": "sk@efelle.com",
+            "homepage": "https://shanekrolikowski.com",
+            "role": "Developer"
+        },
+
+        {
+            "name": "Robert Harvey",
+            "email": "robert@efelle.com",
+            "role": "Developer"
+        },
+
+        {
+            "name": "Amanda Eldreth",
+            "email": "amanda@efelle.com",
+            "homepage": "https://ika.ink",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/fusioncms/fusioncms/issues",
+        "source": "https://github.com/fusioncms/fusioncms",
+        "docs": "https://beta.getfusioncms.com/docs",
+        "rss": "https://beta.getfusioncms.com/releases.json",
+        "chat": "https://beta.getfusioncms.com/discord"
+    },
+    "require": {
+        "php": "^7.3|^8.0",
+        "fideloper/proxy": "^4.4",
+        "fruitcake/laravel-cors": "^2.0",
+        "fusioncms/cms": "dev-nightly",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/oauth-subscriber": "^0.5",
+        "laravel/framework": "^8.20",
+        "laravel/tinker": "^2.5",
+        "predis/predis": "^1.1",
+        "vemcogroup/laravel-sparkpost-driver": "^4.0"
+    },
+    "require-dev": {
+        "facade/ignition": "^2.5",
+        "fzaninotto/faker": "^1.9.1",
+        "laravel/sail": "^1.0.1",
+        "mockery/mockery": "^1.4.2",
+        "nunomaduro/collision": "^5.0",
+        "phpunit/phpunit": "^9.3.3"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories",
+            "Database\\Seeders\\": "database/seeders"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+            "@php artisan package:discover --ansi"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

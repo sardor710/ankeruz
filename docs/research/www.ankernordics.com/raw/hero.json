@@ -1,0 +1,332 @@
+{
+ "heroCls": "jsx-1b8342bccf397301 banner-mod-container",
+ "rect": 792.90625,
+ "vw": 1920,
+ "slideCount": 5,
+ "slides": [
+  {
+   "cls": "swiper-slide swiper-slide-2 swiper-slide-next",
+   "imgs": [
+    {
+     "src": "pc_1_3840x.png",
+     "alt": "",
+     "cls": "w-full h-full object-cover",
+     "w": 3840,
+     "h": 1752
+    }
+   ],
+   "txt": [
+    {
+     "tag": "p",
+     "t": "eufy Robot Vacuum Omni S2",
+     "cls": "text-pretty tracking-[-0.02em] font-bold hero-banner-label font-heading lg-desktop:text-[1",
+     "cs": {
+      "fs": "18px",
+      "fw": "700",
+      "lh": "21px",
+      "ls": "-0.36px",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "span",
+     "t": "15× Longer-Lasting Suction<br>Day-One Deep Cleaning, All Year Long",
+     "cls": "sr-only",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "a",
+     "t": "Buy Now",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(30, 32, 36)"
+     }
+    }
+   ],
+   "links": [
+    {
+     "t": "Learn More15× Longer-Lasting S",
+     "href": "https://www.ankernordics.com/robot-vacuum-s2?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    },
+    {
+     "t": "Buy Now",
+     "href": "https://www.ankernordics.com/products/t2081g11?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    }
+   ]
+  },
+  {
+   "cls": "swiper-slide swiper-slide-3",
+   "imgs": [
+    {
+     "src": "A121D_Final_07a25412-2d49-465e-a4af-437d6ac8d849_3840x.png",
+     "alt": "",
+     "cls": "w-full h-full object-cover",
+     "w": 3840,
+     "h": 1860
+    }
+   ],
+   "txt": [
+    {
+     "tag": "p",
+     "t": "Anker Nano 45W Smart Display Charger",
+     "cls": "text-pretty tracking-[-0.02em] font-bold hero-banner-label font-heading lg-desktop:text-[1",
+     "cs": {
+      "fs": "18px",
+      "fw": "700",
+      "lh": "21px",
+      "ls": "-0.36px",
+      "col": "rgb(8, 10, 15)"
+     }
+    },
+    {
+     "tag": "span",
+     "t": "The World's First Smart Display, <br>Charger That Knows Your iPhone.",
+     "cls": "sr-only",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(8, 10, 15)"
+     }
+    },
+    {
+     "tag": "a",
+     "t": "Buy Now",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(255, 255, 255)"
+     }
+    }
+   ],
+   "links": [
+    {
+     "t": "Learn MoreThe World's First Sm",
+     "href": "https://www.ankernordics.com/a121d?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    },
+    {
+     "t": "Buy Now",
+     "href": "https://www.ankernordics.com/products/anker-nano-45w-smart-display-charger?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    }
+   ]
+  },
+  {
+   "cls": "swiper-slide swiper-slide-4",
+   "imgs": [
+    {
+     "src": "20260629-144002_3840x.jpg",
+     "alt": "",
+     "cls": "w-full h-full object-cover",
+     "w": 1920,
+     "h": 930
+    }
+   ],
+   "txt": [
+    {
+     "tag": "h2",
+     "t": "Ultimate Connection",
+     "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] lea",
+     "cs": {
+      "fs": "48px",
+      "fw": "700",
+      "lh": "48px",
+      "ls": "-1.92px",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "p",
+     "t": "Jul. 17-19/24-26 2026",
+     "cls": "text-pretty tracking-[-0.02em] font-bold hero-banner-subtitle font-heading lg-desktop:text",
+     "cs": {
+      "fs": "18px",
+      "fw": "700",
+      "lh": "21px",
+      "ls": "-0.36px",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "a",
+     "t": "Learn More",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(30, 32, 36)"
+     }
+    }
+   ],
+   "links": [
+    {
+     "t": "Learn More",
+     "href": "https://www.ankernordics.com/tomorrowland?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    }
+   ]
+  },
+  {
+   "cls": "swiper-slide swiper-slide-0 swiper-slide-prev",
+   "imgs": [
+    {
+     "src": "Group_2147239065_1_3840x.png",
+     "alt": "",
+     "cls": "w-full h-full object-cover",
+     "w": 2880,
+     "h": 1395
+    }
+   ],
+   "txt": [
+    {
+     "tag": "p",
+     "t": "Liberty 5 Pro Series",
+     "cls": "text-pretty tracking-[-0.02em] font-bold hero-banner-label font-heading lg-desktop:text-[1",
+     "cs": {
+      "fs": "18px",
+      "fw": "700",
+      "lh": "21px",
+      "ls": "-0.36px",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "span",
+     "t": "The World's First Smart Screen<br/>Earbuds with Al Note-Taker.",
+     "cls": "sr-only",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "a",
+     "t": "Liberty 5 Pro Series",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(30, 32, 36)"
+     }
+    }
+   ],
+   "links": [
+    {
+     "t": "Learn MoreThe World's First Sm",
+     "href": "https://www.ankernordics.com/liberty-5-pro-series?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    },
+    {
+     "t": "Liberty 5 Pro Series",
+     "href": "https://www.ankernordics.com/products/d1204?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    }
+   ]
+  },
+  {
+   "cls": "swiper-slide swiper-slide-1 swiper-slide-active",
+   "imgs": [
+    {
+     "src": "7ce16887-e04e-451f-bd95-31b9fff19ce2_C15-KVx2-EN-PC-1_3840x.jpg",
+     "alt": "",
+     "cls": "w-full h-full object-cover",
+     "w": 3840,
+     "h": 1860
+    }
+   ],
+   "txt": [
+    {
+     "tag": "p",
+     "t": "eufy Lawn Mower C15",
+     "cls": "text-pretty tracking-[-0.02em] font-bold hero-banner-label font-heading lg-desktop:text-[1",
+     "cs": {
+      "fs": "18px",
+      "fw": "700",
+      "lh": "21px",
+      "ls": "-0.36px",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "span",
+     "t": "No Wire, No Hassle.<br/>Just eufy Al Vision.",
+     "cls": "sr-only",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(245, 246, 247)"
+     }
+    },
+    {
+     "tag": "a",
+     "t": "Buy Now",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "cs": {
+      "fs": "16px",
+      "fw": "700",
+      "lh": "19.2px",
+      "ls": "normal",
+      "col": "rgb(30, 32, 36)"
+     }
+    }
+   ],
+   "links": [
+    {
+     "t": "Learn MoreNo Wire, No Hassle.<",
+     "href": "https://www.ankernordics.com/eufy-c15-robot-lawn-mower?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    },
+    {
+     "t": "Buy Now",
+     "href": "https://www.ankernordics.com/products/t280b3a2?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-n"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "cls": "jsx-1b8342bccf397301 swiper-pagination swiper-pagination-dark swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal",
+  "bullets": 5,
+  "style": {
+   "bg": "rgba(0, 0, 0, 0)",
+   "pos": "absolute",
+   "bottom": "40px"
+  }
+ },
+ "arrows": [
+  {
+   "cls": "jsx-1b8342bccf397301 custom-swiper-button-prev",
+   "aria": null
+  },
+  {
+   "cls": "jsx-1b8342bccf397301 custom-swiper-button-next",
+   "aria": null
+  }
+ ]
+}

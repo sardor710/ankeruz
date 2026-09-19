@@ -1,0 +1,665 @@
+{
+ "viewport": 1296,
+ "brandBarGuess": {
+  "tag": "div",
+  "cls": "relative z-[46] box-border h-[30px]",
+  "rect": {
+   "w": 1279,
+   "h": 30
+  },
+  "css": {
+   "position": "relative",
+   "top": "0px",
+   "right": "0px",
+   "bottom": "0px",
+   "left": "0px",
+   "zIndex": "46",
+   "width": "1279px",
+   "height": "30px",
+   "flexDirection": "row",
+   "fontSize": "14px",
+   "fontWeight": "500",
+   "lineHeight": "21px",
+   "color": "rgb(0, 0, 0)",
+   "border": "0px solid rgb(229, 231, 235)",
+   "transition": "all"
+  },
+  "attrs": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "h-full ipc_container relative z-10 w-full",
+    "rect": {
+     "w": 1279,
+     "h": 30
+    },
+    "css": {
+     "position": "relative",
+     "top": "0px",
+     "right": "0px",
+     "bottom": "0px",
+     "left": "0px",
+     "zIndex": "10",
+     "width": "1279px",
+     "height": "30px",
+     "flexDirection": "row",
+     "fontSize": "14px",
+     "fontWeight": "500",
+     "lineHeight": "21px",
+     "color": "rgb(0, 0, 0)",
+     "backgroundColor": "rgb(245, 245, 247)",
+     "border": "0px solid rgb(229, 231, 235)",
+     "transition": "all"
+    },
+    "attrs": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 flex !bg-[#080A0F] items-center justify-between none none none",
+      "rect": {
+       "w": 1279,
+       "h": 30
+      },
+      "css": {
+       "display": "flex",
+       "width": "1279px",
+       "height": "30px",
+       "padding": "0px 56px",
+       "flexDirection": "row",
+       "justifyContent": "space-between",
+       "alignItems": "center",
+       "fontSize": "14px",
+       "fontWeight": "500",
+       "lineHeight": "21px",
+       "color": "rgb(0, 0, 0)",
+       "backgroundColor": "rgb(8, 10, 15)",
+       "border": "0px solid rgb(229, 231, 235)",
+       "transition": "all"
+      },
+      "attrs": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "flex h-full items-center gap-2 py-[5px]",
+        "rect": {
+         "w": 284,
+         "h": 30
+        },
+        "css": {
+         "display": "flex",
+         "width": "284px",
+         "height": "30px",
+         "padding": "5px 0px",
+         "flexDirection": "row",
+         "alignItems": "center",
+         "gap": "7px",
+         "fontSize": "14px",
+         "fontWeight": "500",
+         "lineHeight": "21px",
+         "color": "rgb(0, 0, 0)",
+         "border": "0px solid rgb(229, 231, 235)",
+         "transition": "all"
+        },
+        "attrs": {},
+        "kids": [
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "rect": {
+           "w": 52,
+           "h": 20
+          },
+          "css": {
+           "width": "52px",
+           "height": "20px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "700",
+           "lineHeight": "21px",
+           "letterSpacing": "-0.28px",
+           "color": "rgb(8, 10, 15)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+          },
+          "attrs": {
+           "href": "https://www.ankernordics.com/anker?ref=header"
+          },
+          "kids": "[1 more]"
+         },
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "rect": {
+           "w": 38,
+           "h": 20
+          },
+          "css": {
+           "width": "38px",
+           "height": "20px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "700",
+           "lineHeight": "21px",
+           "letterSpacing": "-0.28px",
+           "color": "rgb(8, 10, 15)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+          },
+          "attrs": {
+           "href": "https://www.ankernordics.com/eufy?ref=header"
+          },
+          "kids": "[1 more]"
+         },
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "rect": {
+           "w": 89,
+           "h": 20
+          },
+          "css": {
+           "width": "89px",
+           "height": "20px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "700",
+           "lineHeight": "21px",
+           "letterSpacing": "-0.28px",
+           "color": "rgb(8, 10, 15)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+          },
+          "attrs": {
+           "href": "https://www.ankernordics.com/eufymake?ref=header"
+          },
+          "kids": "[1 more]"
+         },
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "rect": {
+           "w": 84,
+           "h": 20
+          },
+          "css": {
+           "width": "84px",
+           "height": "20px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "700",
+           "lineHeight": "21px",
+           "letterSpacing": "-0.28px",
+           "color": "rgb(8, 10, 15)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+          },
+          "attrs": {
+           "href": "https://www.ankernordics.com/soundcore?ref=header"
+          },
+          "kids": "[1 more]"
+         }
+        ]
+       },
+       {
+        "tag": "div",
+        "cls": "flex h-full items-center justify-end gap-2 py-[5px]",
+        "rect": {
+         "w": 148,
+         "h": 30
+        },
+        "css": {
+         "display": "flex",
+         "width": "148px",
+         "height": "30px",
+         "padding": "5px 0px",
+         "flexDirection": "row",
+         "justifyContent": "flex-end",
+         "alignItems": "center",
+         "gap": "7px",
+         "fontSize": "14px",
+         "fontWeight": "500",
+         "lineHeight": "21px",
+         "color": "rgb(0, 0, 0)",
+         "border": "0px solid rgb(229, 231, 235)",
+         "transition": "all"
+        },
+        "attrs": {},
+        "kids": [
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 flex h-full items-center cursor-pointer",
+          "rect": {
+           "w": 148,
+           "h": 20
+          },
+          "css": {
+           "display": "flex",
+           "width": "148px",
+           "height": "20px",
+           "flexDirection": "row",
+           "alignItems": "center",
+           "fontSize": "14px",
+           "fontWeight": "700",
+           "lineHeight": "21px",
+           "letterSpacing": "-0.28px",
+           "color": "rgb(8, 10, 15)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+          },
+          "attrs": {
+           "href": "https://www.anker-in.com?ref=header"
+          },
+          "kids": "[1 more]"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "announcementBar": {
+  "tag": "div",
+  "cls": "top-0 z-[55] flex h-[45px] items-center sticky",
+  "rect": {
+   "w": 1279,
+   "h": 45
+  },
+  "css": {
+   "display": "flex",
+   "position": "sticky",
+   "top": "0px",
+   "zIndex": "55",
+   "width": "1279px",
+   "height": "45px",
+   "flexDirection": "row",
+   "alignItems": "center",
+   "fontSize": "14px",
+   "fontWeight": "500",
+   "lineHeight": "21px",
+   "color": "rgb(0, 0, 0)",
+   "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0917/4807/3750/files/gradient-banner-1920x40_2.gif?v=1772690803\")",
+   "backgroundSize": "cover",
+   "backgroundPosition": "50% 50%",
+   "border": "0px solid rgb(229, 231, 235)",
+   "transition": "all"
+  },
+  "attrs": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "h-full w-safe",
+    "rect": {
+     "w": 1168,
+     "h": 45
+    },
+    "css": {
+     "width": "1168px",
+     "height": "45px",
+     "maxWidth": "1280px",
+     "margin": "0px 55.5px",
+     "flexDirection": "row",
+     "fontSize": "14px",
+     "fontWeight": "500",
+     "lineHeight": "21px",
+     "color": "rgb(0, 0, 0)",
+     "border": "0px solid rgb(229, 231, 235)",
+     "transition": "all"
+    },
+    "attrs": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "swiper swiper-initialized swiper-horizontal h-full swiper-backface-hidden",
+      "rect": {
+       "w": 1168,
+       "h": 45
+      },
+      "css": {
+       "position": "relative",
+       "top": "0px",
+       "right": "0px",
+       "bottom": "0px",
+       "left": "0px",
+       "zIndex": "1",
+       "width": "1168px",
+       "height": "45px",
+       "flexDirection": "row",
+       "fontSize": "14px",
+       "fontWeight": "500",
+       "lineHeight": "21px",
+       "color": "rgb(0, 0, 0)",
+       "border": "0px solid rgb(229, 231, 235)",
+       "transition": "all",
+       "overflow": "hidden"
+      },
+      "attrs": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "swiper-wrapper",
+        "rect": {
+         "w": 1168,
+         "h": 45
+        },
+        "css": {
+         "display": "flex",
+         "position": "relative",
+         "top": "0px",
+         "right": "0px",
+         "bottom": "0px",
+         "left": "0px",
+         "zIndex": "1",
+         "width": "1168px",
+         "height": "45px",
+         "flexDirection": "row",
+         "fontSize": "14px",
+         "fontWeight": "500",
+         "lineHeight": "21px",
+         "color": "rgb(0, 0, 0)",
+         "border": "0px solid rgb(229, 231, 235)",
+         "transform": "matrix(1, 0, 0, 1, -2336, 0)",
+         "transition": "transform"
+        },
+        "attrs": {},
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "swiper-slide swiper-slide-next",
+          "rect": {
+           "w": 1168,
+           "h": 45
+          },
+          "css": {
+           "position": "relative",
+           "top": "0px",
+           "right": "0px",
+           "bottom": "0px",
+           "left": "0px",
+           "width": "1168px",
+           "height": "45px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "500",
+           "lineHeight": "21px",
+           "color": "rgb(0, 0, 0)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transform": "matrix(1, 0, 0, 1, 0, 0)",
+           "transition": "transform",
+           "flex": "0 0 auto"
+          },
+          "attrs": {},
+          "kids": [
+           {
+            "tag": "a",
+            "cls": "flex h-[45px] items-center justify-center text-brand",
+            "rect": {
+             "w": 1168,
+             "h": 45
+            },
+            "css": {
+             "display": "flex",
+             "width": "1168px",
+             "height": "45px",
+             "flexDirection": "row",
+             "justifyContent": "center",
+             "alignItems": "center",
+             "fontSize": "14px",
+             "fontWeight": "500",
+             "lineHeight": "21px",
+             "color": "rgb(23, 187, 239)",
+             "border": "0px solid rgb(229, 231, 235)",
+             "transition": "all"
+            },
+            "attrs": {
+             "href": "https://www.ankernordics.com/collections/new-releases"
+            },
+            "kids": "[2 more]"
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "swiper-slide swiper-slide-prev",
+          "rect": {
+           "w": 1168,
+           "h": 45
+          },
+          "css": {
+           "position": "relative",
+           "top": "0px",
+           "right": "0px",
+           "bottom": "0px",
+           "left": "0px",
+           "width": "1168px",
+           "height": "45px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "500",
+           "lineHeight": "21px",
+           "color": "rgb(0, 0, 0)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transform": "matrix(1, 0, 0, 1, 0, 0)",
+           "transition": "transform",
+           "flex": "0 0 auto"
+          },
+          "attrs": {},
+          "kids": [
+           {
+            "tag": "a",
+            "cls": "flex h-[45px] items-center justify-center text-brand",
+            "rect": {
+             "w": 1168,
+             "h": 45
+            },
+            "css": {
+             "display": "flex",
+             "width": "1168px",
+             "height": "45px",
+             "flexDirection": "row",
+             "justifyContent": "center",
+             "alignItems": "center",
+             "fontSize": "14px",
+             "fontWeight": "500",
+             "lineHeight": "21px",
+             "color": "rgb(23, 187, 239)",
+             "border": "0px solid rgb(229, 231, 235)",
+             "transition": "all"
+            },
+            "attrs": {
+             "href": "https://www.ankernordics.com/collections/refurbished"
+            },
+            "kids": "[2 more]"
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "swiper-slide swiper-slide-active",
+          "rect": {
+           "w": 1168,
+           "h": 45
+          },
+          "css": {
+           "position": "relative",
+           "top": "0px",
+           "right": "0px",
+           "bottom": "0px",
+           "left": "0px",
+           "width": "1168px",
+           "height": "45px",
+           "flexDirection": "row",
+           "fontSize": "14px",
+           "fontWeight": "500",
+           "lineHeight": "21px",
+           "color": "rgb(0, 0, 0)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transform": "matrix(1, 0, 0, 1, 0, 0)",
+           "transition": "transform",
+           "flex": "0 0 auto"
+          },
+          "attrs": {},
+          "kids": [
+           {
+            "tag": "a",
+            "cls": "flex h-[45px] items-center justify-center text-brand",
+            "rect": {
+             "w": 1168,
+             "h": 45
+            },
+            "css": {
+             "display": "flex",
+             "width": "1168px",
+             "height": "45px",
+             "flexDirection": "row",
+             "justifyContent": "center",
+             "alignItems": "center",
+             "fontSize": "14px",
+             "fontWeight": "500",
+             "lineHeight": "21px",
+             "color": "rgb(23, 187, 239)",
+             "border": "0px solid rgb(229, 231, 235)",
+             "transition": "all"
+            },
+            "attrs": {
+             "href": "https://www.ankernordics.com/deals"
+            },
+            "kids": "[2 more]"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "header": {
+  "tag": "header",
+  "cls": "sticky top-0 z-[100] transition-transform duration-500 ease-in-out",
+  "rect": {
+   "w": 1279,
+   "h": 52
+  },
+  "css": {
+   "position": "sticky",
+   "top": "0px",
+   "zIndex": "100",
+   "width": "1279px",
+   "height": "52px",
+   "flexDirection": "row",
+   "fontSize": "14px",
+   "fontWeight": "500",
+   "lineHeight": "21px",
+   "color": "rgb(0, 0, 0)",
+   "border": "0px solid rgb(229, 231, 235)",
+   "transition": "transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)"
+  },
+  "attrs": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "hover:bg-white hover:text-black text-black !bg-white transition-all duration-500 ease-in-out !text-black",
+    "rect": {
+     "w": 1279,
+     "h": 52
+    },
+    "css": {
+     "width": "1279px",
+     "height": "52px",
+     "flexDirection": "row",
+     "fontSize": "14px",
+     "fontWeight": "500",
+     "lineHeight": "21px",
+     "color": "rgb(0, 0, 0)",
+     "backgroundColor": "rgb(255, 255, 255)",
+     "border": "0px solid rgb(229, 231, 235)",
+     "transition": "0.5s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "attrs": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "h-[52px] desktop:hidden block !bg-white ipc_container relative z-10 w-full",
+      "rect": {
+       "w": 1279,
+       "h": 52
+      },
+      "css": {
+       "position": "relative",
+       "top": "0px",
+       "right": "0px",
+       "bottom": "0px",
+       "left": "0px",
+       "zIndex": "10",
+       "width": "1279px",
+       "height": "52px",
+       "flexDirection": "row",
+       "fontSize": "14px",
+       "fontWeight": "500",
+       "lineHeight": "21px",
+       "color": "rgb(0, 0, 0)",
+       "backgroundColor": "rgb(255, 255, 255)",
+       "border": "0px solid rgb(229, 231, 235)",
+       "transition": "all"
+      },
+      "attrs": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 none none none",
+        "rect": {
+         "w": 1279,
+         "h": 52
+        },
+        "css": {
+         "width": "1279px",
+         "height": "52px",
+         "padding": "0px 56px",
+         "flexDirection": "row",
+         "fontSize": "14px",
+         "fontWeight": "500",
+         "lineHeight": "21px",
+         "color": "rgb(0, 0, 0)",
+         "border": "0px solid rgb(229, 231, 235)",
+         "transition": "all"
+        },
+        "attrs": {},
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "flex h-full items-center justify-between gap-4",
+          "rect": {
+           "w": 1167,
+           "h": 52
+          },
+          "css": {
+           "display": "flex",
+           "width": "1167px",
+           "height": "52px",
+           "flexDirection": "row",
+           "justifyContent": "space-between",
+           "alignItems": "center",
+           "gap": "14px",
+           "fontSize": "14px",
+           "fontWeight": "500",
+           "lineHeight": "21px",
+           "color": "rgb(0, 0, 0)",
+           "border": "0px solid rgb(229, 231, 235)",
+           "transition": "all"
+          },
+          "attrs": {},
+          "kids": "[2 more]"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "vw": 1920,
+ "s32": {
+  "cls": "relative z-20 h-screen w-full block-style_2sayleb aiui-dark",
+  "w": 1903,
+  "h": 893,
+  "bg": "rgba(0, 0, 0, 0)",
+  "col": "rgb(0, 0, 0)",
+  "fs": "14px",
+  "fw": "500",
+  "lh": "21px",
+  "ls": "normal",
+  "rad": "0px",
+  "pad": "0px",
+  "gap": "normal",
+  "disp": "block",
+  "marginTop": "0px",
+  "pos": "relative",
+  "z": "20"
+ },
+ "s33": {
+  "cls": "ipc-mediaplayersticky relative mt-[-200vh]",
+  "w": 1903,
+  "h": 3301,
+  "bg": "rgba(0, 0, 0, 0)",
+  "col": "rgb(0, 0, 0)",
+  "fs": "14px",
+  "fw": "500",
+  "lh": "21px",
+  "ls": "normal",
+  "rad": "0px",
+  "pad": "0px",
+  "gap": "normal",
+  "disp": "block",
+  "marginTop": "-1786px",
+  "pos": "relative",
+  "z": "1"
+ },
+ "stickyDescendants": [
+  {
+   "tag": "DIV",
+   "cls": "sticky top-0 ",
+   "pos": "sticky",
+   "top": "0px",
+   "h": 893
+  }
+ ],
+ "tree32": {
+  "tag": "div",
+  "cls": "relative z-20 h-screen w-full block-style_2sayleb aiui-dark",
+  "pos": "relative",
+  "top": "0px",
+  "z": "20",
+  "h": 893,
+  "w": 1903,
+  "txt": null,
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "media-content translate-z-0 absolute left-1/2 top-1/2 z-10 w-full -translate-x-1/2 -translate-y-1/2 antialiase",
+    "pos": "absolute",
+    "top": "446.5px",
+    "z": "10",
+    "h": 134,
+    "w": 1903,
+    "txt": null,
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "!bg-transparent ipc_container relative z-10 w-full",
+      "pos": "relative",
+      "top": "0px",
+      "z": "10",
+      "h": 70,
+      "w": 1903,
+      "txt": null,
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)]",
+        "pos": "static",
+        "top": "auto",
+        "z": "auto",
+        "h": 70,
+        "w": 1903,
+        "txt": null,
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "laptop:gap-4 grid grid-cols-12 gap-3",
+          "pos": "static",
+          "top": "auto",
+          "z": "auto",
+          "h": 70,
+          "w": 1664,
+          "txt": null
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "tree33": {
+  "tag": "div",
+  "cls": "ipc-mediaplayersticky relative mt-[-200vh]",
+  "pos": "relative",
+  "top": "0px",
+  "z": "1",
+  "h": 3301,
+  "w": 1903,
+  "txt": null,
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "sticky top-0 ",
+    "pos": "sticky",
+    "top": "0px",
+    "z": "auto",
+    "h": 893,
+    "w": 1903,
+    "txt": null,
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "media-cover relative h-screen w-full",
+      "pos": "relative",
+      "top": "0px",
+      "z": "auto",
+      "h": 893,
+      "w": 1903,
+      "txt": null,
+      "kids": [
+       {
+        "tag": "img",
+        "cls": "z-1 absolute left-0 top-0 size-full object-cover  object-[82%]",
+        "pos": "absolute",
+        "top": "0px",
+        "z": "auto",
+        "h": 893,
+        "w": 1903,
+        "txt": null
+       },
+       {
+        "tag": "div",
+        "cls": "sticky-cover absolute left-0 top-0 z-10 size-full",
+        "pos": "absolute",
+        "top": "0px",
+        "z": "10",
+        "h": 893,
+        "w": 1903,
+        "txt": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tag": "div",
+    "cls": "relative h-screen w-full",
+    "pos": "relative",
+    "top": "0px",
+    "z": "auto",
+    "h": 893,
+    "w": 1903,
+    "txt": null,
+    "kids": []
+   },
+   {
+    "tag": "div",
+    "cls": "relative z-10",
+    "pos": "relative",
+    "top": "0px",
+    "z": "10",
+    "h": 622,
+    "w": 1903,
+    "txt": null,
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "relative z-20 bg-transparent",
+      "pos": "relative",
+      "top": "0px",
+      "z": "20",
+      "h": 494,
+      "w": 1903,
+      "txt": null,
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "!bg-transparent ipc_container relative z-10 w-full",
+        "pos": "relative",
+        "top": "0px",
+        "z": "10",
+        "h": 494,
+        "w": 1903,
+        "txt": null
+       }
+      ]
+     },
+     {
+      "tag": "div",
+      "cls": "ipc_spacer laptop:h-16 desktop:h-[96px] lg-desktop:h-[128px] tablet:h-16 h-16 block-style_2sbgb62 !bg-transpar",
+      "pos": "static",
+      "top": "auto",
+      "z": "auto",
+      "h": 128,
+      "w": 1903,
+      "txt": null,
+      "kids": []
+     }
+    ]
+   },
+   {
+    "tag": "div",
+    "cls": "relative h-screen w-full",
+    "pos": "relative",
+    "top": "0px",
+    "z": "auto",
+    "h": 893,
+    "w": 1903,
+    "txt": null,
+    "kids": []
+   }
+  ]
+ }
+}

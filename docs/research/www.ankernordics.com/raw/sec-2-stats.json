@@ -1,0 +1,168 @@
+{
+ "vw": 1440,
+ "stats": {
+  "tag": "div",
+  "cls": "ipc_container relative z-10 w-full",
+  "cs": {
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "col": "rgb(0, 0, 0)",
+   "bg": "rgb(245, 245, 247)",
+   "disp": "block",
+   "gap": "normal",
+   "pad": "0px",
+   "r": "0px",
+   "cols": "none",
+   "ta": "start"
+  },
+  "r": {
+   "w": 1423,
+   "h": 66
+  },
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 none none none",
+    "cs": {
+     "fs": "14px",
+     "fw": "500",
+     "lh": "21px",
+     "ls": "normal",
+     "col": "rgb(0, 0, 0)",
+     "bg": "rgba(0, 0, 0, 0)",
+     "disp": "block",
+     "gap": "normal",
+     "pad": "0px 56px",
+     "r": "0px",
+     "cols": "none",
+     "ta": "start"
+    },
+    "r": {
+     "w": 1423,
+     "h": 66
+    },
+    "kids": [
+     {
+      "tag": "div",
+      "cs": {
+       "fs": "14px",
+       "fw": "500",
+       "lh": "21px",
+       "ls": "normal",
+       "col": "rgb(0, 0, 0)",
+       "bg": "rgba(0, 0, 0, 0)",
+       "disp": "block",
+       "gap": "normal",
+       "pad": "0px",
+       "r": "0px",
+       "cols": "none",
+       "ta": "start"
+      },
+      "r": {
+       "w": 1311,
+       "h": 66
+      },
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "slogan-container laptop:flex-row laptop:items-end laptop:justify-between text-info-primary flex h-auto w-full flex-col items-start justify-center gap-[24px] text-center block-style_6124tbs",
+        "cs": {
+         "fs": "14px",
+         "fw": "500",
+         "lh": "21px",
+         "ls": "normal",
+         "col": "rgb(8, 10, 15)",
+         "bg": "rgba(0, 0, 0, 0)",
+         "disp": "flex",
+         "gap": "24px",
+         "pad": "0px",
+         "r": "0px",
+         "cols": "none",
+         "ta": "center"
+        },
+        "r": {
+         "w": 1311,
+         "h": 66
+        },
+        "kids": [
+         {
+          "tag": "h1",
+          "cls": "text-balance tracking-[-0.04em] font-bold text-left slogan-title laptop:text-[40px] desktop:text-[48px] lg-desktop:text-[64px] text-[40px] !leading-[1.1]",
+          "txt": "A Global Smart Hardware Technology Company Driven by Ultimate Innovation",
+          "cs": {
+           "fs": "30px",
+           "fw": "700",
+           "lh": "33px",
+           "ls": "-1.2px",
+           "col": "rgb(8, 10, 15)",
+           "bg": "rgba(0, 0, 0, 0)",
+           "disp": "block",
+           "gap": "normal",
+           "pad": "0px",
+           "r": "0px",
+           "cols": "none",
+           "ta": "left"
+          },
+          "r": {
+           "w": 675,
+           "h": 66
+          },
+          "kids": []
+         },
+         {
+          "tag": "div",
+          "cls": "relative w-full max-w-[500px] overflow-hidden tablet:h-[40px]",
+          "cs": {
+           "fs": "14px",
+           "fw": "500",
+           "lh": "21px",
+           "ls": "normal",
+           "col": "rgb(8, 10, 15)",
+           "bg": "rgba(0, 0, 0, 0)",
+           "disp": "block",
+           "gap": "normal",
+           "pad": "0px",
+           "r": "0px",
+           "cols": "none",
+           "ta": "center"
+          },
+          "r": {
+           "w": 500,
+           "h": 39
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "flex flex-col transition-transform duration-500 ease-[cubic-bezier(.4,0,.2,1)]",
+            "cs": {
+             "fs": "14px",
+             "fw": "500",
+             "lh": "21px",
+             "ls": "normal",
+             "col": "rgb(8, 10, 15)",
+             "bg": "rgba(0, 0, 0, 0)",
+             "disp": "flex",
+             "gap": "normal",
+             "pad": "0px",
+             "r": "0px",
+             "cols": "none",
+             "ta": "center"
+            },
+            "r": {
+             "w": 500,
+             "h": 39
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "vw": 1920,
+ "h": 640,
+ "vids": [
+  {
+   "src": "76eee370bf62410ca08c839be6382529.mp4",
+   "cls": "tablet:block hidden size-full overflow-hidden object-cover",
+   "autoplay": true,
+   "loop": true,
+   "muted": true,
+   "w": 1664,
+   "h": 640,
+   "fit": "cover",
+   "paused": true
+  },
+  {
+   "src": "2c94c918738f49fa839decfef3e362e0.mp4",
+   "cls": "tablet:hidden block size-full overflow-hidden object-cover",
+   "autoplay": true,
+   "loop": true,
+   "muted": true,
+   "w": 0,
+   "h": 0,
+   "fit": "cover",
+   "paused": true
+  },
+  {
+   "src": "76eee370bf62410ca08c839be6382529.mp4",
+   "cls": "tablet:block hidden size-full overflow-hidden object-cover",
+   "autoplay": true,
+   "loop": true,
+   "muted": true,
+   "w": 0,
+   "h": 0,
+   "fit": "cover",
+   "paused": true
+  },
+  {
+   "src": "2c94c918738f49fa839decfef3e362e0.mp4",
+   "cls": "tablet:hidden block size-full overflow-hidden object-cover",
+   "autoplay": true,
+   "loop": true,
+   "muted": true,
+   "w": 0,
+   "h": 0,
+   "fit": "cover",
+   "paused": true
+  }
+ ],
+ "tiles": [
+  {
+   "href": "/se",
+   "t": "",
+   "cls": "absolute inset-0 z-10",
+   "w": 1664,
+   "h": 640,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(245, 246, 247)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  {
+   "href": "https://www.ankernordics.com/anker",
+   "t": "Learn More",
+   "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-none focus-visible:ring-2 focus",
+   "w": 141,
+   "h": 48,
+   "bg": "rgb(245, 246, 247)",
+   "col": "rgb(30, 32, 36)",
+   "fs": "16px",
+   "fw": "700",
+   "lh": "19.2px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "15px 24.5px 14px",
+   "gap": "normal",
+   "disp": "flex"
+  },
+  {
+   "href": "/se",
+   "t": "",
+   "cls": "absolute inset-0 z-10",
+   "w": 0,
+   "h": 0,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(245, 246, 247)",
+   "fs": "14px",
+   "fw": "500",
+   "lh": "21px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  {
+   "href": "https://www.ankernordics.com/anker",
+   "t": "Learn More",
+   "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible:outline-none focus-visible:ring-2 focus",
+   "w": 0,
+   "h": 0,
+   "bg": "rgb(245, 246, 247)",
+   "col": "rgb(30, 32, 36)",
+   "fs": "16px",
+   "fw": "700",
+   "lh": "19.2px",
+   "ls": "normal",
+   "rad": "0px",
+   "pad": "15px 24.5px 14px",
+   "gap": "normal",
+   "disp": "flex"
+  }
+ ],
+ "tree": "div[overflow-hidden ipc_container relative z-10 w-full]\n div[lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop]\n  section[multiLayoutGraphicBlock text-info-primary block-style_2to9pkn]\n   div[laptop:gap-4 grid grid-cols-12 gap-3 w-full]\n    div[col-span-12 laptop:block hidden]\n     div[item-wrapper cursor-pointer group relative box-border w-full overflow-hi]\n    div[col-span-12 laptop:hidden block]\n     div[item-wrapper cursor-pointer group relative box-border w-full overflow-hi]\n"
+}

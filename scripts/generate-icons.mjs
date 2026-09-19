@@ -1,0 +1,146 @@
+// Converts the SVGs extracted from ankernordics.com into src/components/icons.tsx.
+//
+// Input:  docs/research/www.ankernordics.com/raw/svgs-full.json (browser-extracted, deduped)
+// Output: src/components/icons.tsx
+//
+// Names below were resolved from each SVG's aria-label / anchor href, not guessed.
+// Run: node scripts/generate-icons.mjs
+
+import { readFile, writeFile } from 'node:fs/promises';
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+const src = JSON.parse(
+  await readFile(resolve(ROOT, 'docs/research/www.ankernordics.com/raw/svgs-full.json'), 'utf8')
+);
+
+// index -> [ComponentName, doc comment]
+const NAMES = {
+  0: ['AnkerWordmark', 'Top brand bar, links to /anker'],
+  1: ['EufyWordmark', 'Top brand bar, links to /eufy'],
+  2: ['EufyMakeWordmark', 'Top brand bar, links to /eufymake'],
+  3: ['SoundcoreWordmark', 'Top brand bar, links to /soundcore'],
+  4: ['AnkerInnovationsWordmark', 'Top brand bar right side, links to anker-in.com'],
+  5: ['DealsIcon', 'Announcement bar leading icon'],
+  6: ['AnkerHeaderLockup', 'Main header logo + tagline lockup, links to /'],
+  7: ['SearchIcon', 'Header action — aria-label "Search"'],
+  8: ['CartIcon', 'Header action — aria-label "Shopping cart"'],
+  9: ['UserProfileIcon', 'Header action — aria-label "User profile"'],
+  10: ['ChevronDownIcon', 'Nav item affordance, fades in on group hover'],
+  11: ['MenuIcon', 'aria-label "Open menu" (mobile)'],
+  12: ['CloseIcon', 'Drawer / overlay dismiss'],
+  13: ['CartEmptyIcon', 'Empty-cart drawer illustration'],
+  14: ['ArrowRightIcon', '"See More" link affordance'],
+  15: ['PlayIcon', 'aria-label "Play Video"'],
+  16: ['GlobeIcon', 'Country/region selector — current: Sweden'],
+  17: ['AnkerNordicsFooterLogo', 'Footer, links to /'],
+  18: ['AnkerFooterWordmark', 'Footer brand row'],
+  19: ['EufyFooterWordmark', 'Footer brand row'],
+  20: ['EufyMakeFooterWordmark', 'Footer brand row'],
+  21: ['SoundcoreFooterWordmark', 'Footer brand row'],
+  22: ['ChevronUpIcon', 'Back-to-top floating button'],
+};
+
+const ATTR = {
+  class: 'className',
+  for: 'htmlFor',
+  'fill-rule': 'fillRule',
+  'clip-rule': 'clipRule',
+  'clip-path': 'clipPath',
+  'stroke-width': 'strokeWidth',
+  'stroke-linecap': 'strokeLinecap',
+  'stroke-linejoin': 'strokeLinejoin',
+  'stroke-miterlimit': 'strokeMiterlimit',
+  'stroke-dasharray': 'strokeDasharray',
+  'stroke-opacity': 'strokeOpacity',
+  'fill-opacity': 'fillOpacity',
+  'stop-color': 'stopColor',
+  'stop-opacity': 'stopOpacity',
+  'gradientUnits': 'gradientUnits',
+  'gradientTransform': 'gradientTransform',
+  'xlink:href': 'xlinkHref',
+  'xml:space': 'xmlSpace',
+  'data-slot': 'data-slot',
+  'aria-hidden': 'aria-hidden',
+};
+
+function toJsx(html, idPrefix) {
+  // Some of the site's inline SVGs carry a literal backslash-n two-char sequence
+  // between elements (an escaping bug in their build). Left in place it would render
+  // as visible "\n" text inside the <svg>.
+  let out = html.replace(/\\n/g, ' ').replace(/>\s+</g, '><').trim();
+
+  // Namespace internal ids (clipPath/gradient defs) so icons can coexist on one page.
+  const ids = [...out.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]);
+  for (const id of new Set(ids)) {
+    const safe = `${idPrefix}_${id}`.replace(/[^a-zA-Z0-9_]/g, '_');
+    out = out.replaceAll(`id="${id}"`, `id="${safe}"`);
+    out = out.replaceAll(`url(#${id})`, `url(#${safe})`);
+    out = out.replaceAll(`"#${id}"`, `"#${safe}"`);
+  }
+
+  // Rename attributes to their JSX spellings.
+  out = out.replace(/\s([a-zA-Z-]+:?[a-zA-Z-]*)=/g, (m, name) => {
+    if (ATTR[name]) return ` ${ATTR[name]}=`;
+    if (name.includes('-') && !name.startsWith('data-') && !name.startsWith('aria-')) {
+      return ` ${name.replace(/-([a-z])/g, (_, c) => c.toUpperCase())}=`;
+    }
+    return m;
+  });
+
+  // Self-close void-ish SVG elements and drop the xmlns React doesn't need on children.
+  out = out.replace(/<\/(path|circle|rect|line|polygon|polyline|ellipse|stop|use)>/g, '');
+  out = out.replace(
+    /<(path|circle|rect|line|polygon|polyline|ellipse|stop|use)([^>]*?)>/g,
+    (m, tag, attrs) => (attrs.trim().endsWith('/') ? m : `<${tag}${attrs} />`)
+  );
+
+  // Let callers restyle: drop the site's own utility classes off the root and forward
+  // props instead. Keep intrinsic width/height — without them a viewBox-only <svg> has
+  // no natural size, so `h-fit` collapses and `[&_svg]:h-full` resolves against nothing.
+  // {...props} is spread last, so a caller's width/height/className still wins, and any
+  // CSS (Tailwind sizing) beats the presentation attributes regardless.
+  out = out.replace(/^<svg([^>]*)>/, (m, attrs) => {
+    const cleaned = attrs.replace(/\sclassName="[^"]*"/g, '').trim();
+    return `<svg ${cleaned} {...props}>`;
+  });
+
+  return out;
+}
+
+const parts = [
+  '// AUTO-GENERATED by scripts/generate-icons.mjs — do not edit by hand.',
+  '// Source: inline <svg> elements extracted from https://www.ankernordics.com/',
+  '// (23 unique of 57 on the page). Re-run the script to regenerate.',
+  '',
+  'import type { SVGProps } from "react";',
+  '',
+  'type IconProps = SVGProps<SVGSVGElement>;',
+  '',
+];
+
+const exported = [];
+for (const [idx, [name, note]] of Object.entries(NAMES)) {
+  const item = src[Number(idx)];
+  if (!item) {
+    console.warn(`! no svg at index ${idx} for ${name}`);
+    continue;
+  }
+  const jsx = toJsx(item.html, name.toLowerCase());
+  const size = item.w && item.h ? `${item.w}x${item.h}` : 'hidden at capture time';
+  parts.push(
+    `/** ${note}. Intrinsic ${size}, viewBox ${(item.html.match(/viewBox="([^"]+)"/) || [, '?'])[1]}. */`,
+    `export function ${name}(props: IconProps) {`,
+    `  return (`,
+    `    ${jsx}`,
+    `  );`,
+    `}`,
+    ''
+  );
+  exported.push(name);
+}
+
+await writeFile(resolve(ROOT, 'src/components/icons.tsx'), parts.join('\n'));
+console.log(`wrote src/components/icons.tsx with ${exported.length} icons:`);
+console.log(exported.map((n) => '  ' + n).join('\n'));

@@ -1,0 +1,47 @@
+/* CKEditor 5 Nordic Admin Styling */
+.ckeditor-custom-wrapper .ck.ck-editor {
+  width: 100%;
+  font-family: inherit;
+}
+
+.ckeditor-custom-wrapper .ck.ck-toolbar {
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-bottom: 1px solid #E5E7EB !important;
+  background: #F9FAFB !important;
+  padding: 6px 8px !important;
+  border-radius: 0 !important;
+}
+
+.ckeditor-custom-wrapper .ck.ck-editor__main > .ck-editor__editable {
+  min-height: 220px;
+  max-height: 500px;
+  padding: 16px 20px !important;
+  border: none !important;
+  background: #FFFFFF !important;
+  color: #111827 !important;
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+  box-shadow: none !important;
+}
+
+.ckeditor-custom-wrapper .ck.ck-editor__main > .ck-editor__editable:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.ckeditor-custom-wrapper .ck.ck-button {
+  border-radius: 6px !important;
+  font-size: 13px !important;
+  transition: all 0.15s ease !important;
+}
+
+.ckeditor-custom-wrapper .ck.ck-button:hover:not(.ck-disabled) {
+  background: #F3F4F6 !important;
+}
+
+.ckeditor-custom-wrapper .ck.ck-button.ck-on {
+  background: rgba(23, 187, 239, 0.12) !important;
+  color: #0284c7 !important;
+}

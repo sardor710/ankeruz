@@ -1,0 +1,18 @@
+{
+ "variants": [
+  {
+   "cls": "h-[96px] desktop:block hidden !bg-white ipc_container relative z-10 w-full",
+   "rect": 0,
+   "display": "none"
+  },
+  {
+   "cls": "h-[52px] desktop:hidden block !bg-white ipc_container relative z-10 w-full",
+   "rect": 52,
+   "display": "block"
+  }
+ ],
+ "headerCls": "sticky top-0 z-[100] transition-transform duration-500 ease-in-out",
+ "headerParentCls": "relative",
+ "headerGrandCls": "sticky top-[45px] z-[53]",
+ "brandBar": "not-found"
+}

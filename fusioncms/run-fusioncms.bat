@@ -1,0 +1,3 @@
+@echo off
+echo Starting standard FusionCMS Laravel backend on http://localhost:8000 ...
+php artisan serve --port 8000

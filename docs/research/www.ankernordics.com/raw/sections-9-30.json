@@ -1,0 +1,751 @@
+{
+ "vw": 1920,
+ "s9": {
+  "h": 69,
+  "heading": {
+   "t": "What's New",
+   "tag": "H2",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1664,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 0,
+  "imgs": 0,
+  "cards": []
+ },
+ "s10": {
+  "h": 640,
+  "heading": {
+   "t": "soundcore P42i",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[32px] text-[24px] leading-[120%] font-bold item-title",
+   "w": 382,
+   "h": 38,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "32px",
+   "fw": "700",
+   "lh": "38.4px",
+   "ls": "-1.28px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 8,
+  "vids": 0,
+  "imgs": 16,
+  "cards": [
+   {
+    "h3": "soundcore P42i",
+    "h4": "Quiet The Noise, Focus on What Matters Most",
+    "img": "D1205_PC_1664x640_2.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/products/d1205",
+    "cta": "Buy Now",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "Anker Nano USB-C Hub (8-in-1, Dual Display)",
+    "h4": "Your Workflow, with Full Energy",
+    "img": "Frame_2147238604_3840x.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/products/a210b",
+    "cta": "Buy Now",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "25W Max Palm-Sized 3-in-1",
+    "h4": "Wireless Charger with Active Cooling",
+    "img": "Frame_2147238602_3840x.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/products/b25n1",
+    "cta": "Buy Now",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "eufy Baby Bottle Washer S1 Pro",
+    "h4": "World's First Bottle Washer with Water Softener",
+    "img": "Frame_2147238600_3840x.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/eufy-bottle-washer-s1",
+    "cta": "Learn Moreeufy Baby ",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "eufy Wearable Breast Pump S2 Pro",
+    "h4": "Feel the Heated Massage, Own Your Flow",
+    "img": "Frame_2147238573_1_3840x.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/products/t600p082",
+    "cta": "Buy Now",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "ANKER Thus™ 150× Computing Power*",
+    "h4": "",
+    "img": "D1203Z21_rich-image_elkjop_NOD_soundcore_03_EN_V1_3840x.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/anker-thus-ai-chip",
+    "cta": "Learn MoreANKER Thus",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "eufyCam C37",
+    "h4": "Total Coverage. Zero Hassle.",
+    "img": "b83f5665-bd54-4231-ac0c-f21035226ac9_T814X_Banner_Listing_Image_01_no_copy_1060x1060px_3.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/products/t814x321",
+    "cta": "",
+    "pills": [],
+    "now": null,
+    "was": null
+   },
+   {
+    "h3": "eufy Wired Cam C31",
+    "h4": "Auto Tracking, Indoors or Outdoors",
+    "img": "681d9e07-9017-4d9e-bb2c-7dceca8681e6_Frame_2147226853-1_3840x.png",
+    "vid": null,
+    "href": "https://www.ankernordics.com/products/t817l420",
+    "cta": "",
+    "pills": [],
+    "now": null,
+    "was": null
+   }
+  ]
+ },
+ "s12": {
+  "h": 710,
+  "heading": {
+   "t": "Explore All Brands during Sale",
+   "tag": "H2",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1664,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 0,
+  "imgs": 8,
+  "cards": []
+ },
+ "s14": {
+  "h": 69,
+  "heading": {
+   "t": "Anker",
+   "tag": "H2",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1573,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 0,
+  "imgs": 0,
+  "cards": []
+ },
+ "s15": {
+  "h": 640,
+  "heading": {
+   "t": "Live Charged.",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[32px] text-[24px] leading-[120%] font-bold item-title",
+   "w": 333,
+   "h": 38,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(245, 246, 247)",
+   "fs": "32px",
+   "fw": "700",
+   "lh": "38.4px",
+   "ls": "-1.28px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 4,
+  "imgs": 0,
+  "cards": []
+ },
+ "s18": {
+  "h": 480,
+  "heading": {
+   "t": "Anker Prime Power Bank (26K, 300W)",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] lg-desktop:text-[24px] text-[20px] leading-[120%] font-bold shelf-display-product-title lg-desktop",
+   "w": 362,
+   "h": 58,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "24px",
+   "fw": "700",
+   "lh": "28.8px",
+   "ls": "-0.96px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "flow-root"
+  },
+  "slides": 10,
+  "vids": 0,
+  "imgs": 10,
+  "cards": [
+   {
+    "h3": "Anker Prime Power Bank (26K, 300W)",
+    "h4": "",
+    "img": "Frame_2121237348_3840x.png",
+    "vid": null,
+    "href": "/se/products/a110ah11",
+    "cta": "",
+    "pills": [
+     "20 %",
+     "Best Seller"
+    ],
+    "now": "1 992,00 kr",
+    "was": "2 490,00 kr"
+   },
+   {
+    "h3": "Anker Prime Charger (160W, 3 Ports, Smart Display)",
+    "h4": "",
+    "img": "Frame_20000_3840x.png",
+    "vid": null,
+    "href": "/se/products/a2687-anker-prime-charger-160w-3-ports-gan",
+    "cta": "",
+    "pills": [
+     "24 %",
+     "Best Seller"
+    ],
+    "now": "1 284,40 kr",
+    "was": "1 690,00 kr"
+   },
+   {
+    "h3": "Anker Nano 45W Smart Display Charger (2-Pack)",
+    "h4": "",
+    "img": "Bundle-A121D311-2_Rich_image_TD01_EN_V2_3840x.png",
+    "vid": null,
+    "href": "/se/products/a121d-45w-usb-c-fast-charger-2-pack",
+    "cta": "",
+    "pills": [
+     "11 %",
+     "New"
+    ],
+    "now": "844,61 kr",
+    "was": "949,00 kr"
+   },
+   {
+    "h3": "Anker Nano USB-C Hub (8-in-1, Dual Display), 10 Gbps Speed, 85W Max Fast Laptop Charging",
+    "h4": "",
+    "img": "A210B_3840x.png",
+    "vid": null,
+    "href": "/se/products/a210b",
+    "cta": "",
+    "pills": [
+     "29 %"
+    ],
+    "now": "496,29 kr",
+    "was": "699,00 kr"
+   },
+   {
+    "h3": "Anker Laptop Charger (140W, 4-Port, PD 3.1) with USB-C Cable + Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+    "h4": "",
+    "img": "Frame_1_3_1_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-b26973z1-1-a1695h11-1",
+    "cta": "",
+    "pills": [
+     "32 %"
+    ],
+    "now": "1 693,20 kr",
+    "was": "2 490,00 kr"
+   },
+   {
+    "h3": "Anker 735 Charger (Nano II 65W) (2-Pack)",
+    "h4": "",
+    "img": "Frame_212_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-a2667314-2",
+    "cta": "",
+    "pills": [
+     "45 %"
+    ],
+    "now": "604,45 kr",
+    "was": "1 099,00 kr"
+   },
+   {
+    "h3": "Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+    "h4": "",
+    "img": "A1654_NO_7_a3e1a71c-b152-49fc-912b-c94c8f39c894_3840x.png",
+    "vid": null,
+    "href": "/se/products/a1695-anker-power-bank-25000mah-165w",
+    "cta": "",
+    "pills": [
+     "29 %",
+     "Best Seller"
+    ],
+    "now": "993,29 kr",
+    "was": "1 399,00 kr"
+   },
+   {
+    "h3": "Anker Prime Power Bank (20K, 220W) + Anker USB-C to USB-C Cable (240W, Upcycled-Braided)",
+    "h4": "",
+    "img": "Frame2121237302_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-a110bh11-1-a82e2011-1",
+    "cta": "",
+    "pills": [
+     "29 %"
+    ],
+    "now": "1 589,69 kr",
+    "was": "2 239,00 kr"
+   },
+   {
+    "h3": "Anker Nano Power Bank (5K, MagGo, Slim)",
+    "h4": "",
+    "img": "A1665H11_Richimage_TD01_US_V2_ecb9e223-317d-4627-8039-5ce21a47288e_3840x.png",
+    "vid": null,
+    "href": "/se/products/a1665-anker-nano-powerbank-5000mah",
+    "cta": "",
+    "pills": [
+     "25 %",
+     "Hot"
+    ],
+    "now": "449,25 kr",
+    "was": "599,00 kr"
+   },
+   {
+    "h3": "Anker Prime Charger (100W, 3 Ports, GaN)",
+    "h4": "",
+    "img": "Rich_image_US_5000x6258px_1_98cdf5fb-acb7-486b-86c5-ae12778a6b58.png",
+    "vid": null,
+    "href": "/se/products/a2688-anker-prime-charger-100w-3-ports-gan",
+    "cta": "",
+    "pills": [
+     "52 %"
+    ],
+    "now": "551,52 kr",
+    "was": "1 149,00 kr"
+   }
+  ]
+ },
+ "s20": {
+  "h": 69,
+  "heading": {
+   "t": "eufy",
+   "tag": "H2",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1573,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 0,
+  "imgs": 0,
+  "cards": []
+ },
+ "s21": {
+  "h": 640,
+  "heading": {
+   "t": "Built with Care",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[32px] text-[24px] leading-[120%] font-bold item-title",
+   "w": 216,
+   "h": 38,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(245, 246, 247)",
+   "fs": "32px",
+   "fw": "700",
+   "lh": "38.4px",
+   "ls": "-1.28px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 4,
+  "imgs": 0,
+  "cards": []
+ },
+ "s24": {
+  "h": 480,
+  "heading": {
+   "t": "eufyCam S4 4-Cam + Kit HomeBase S380",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] lg-desktop:text-[24px] text-[20px] leading-[120%] font-bold shelf-display-product-title lg-desktop",
+   "w": 362,
+   "h": 58,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "24px",
+   "fw": "700",
+   "lh": "28.8px",
+   "ls": "-0.96px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "flow-root"
+  },
+  "slides": 9,
+  "vids": 0,
+  "imgs": 9,
+  "cards": [
+   {
+    "h3": "eufyCam S4 4-Cam + Kit HomeBase S380",
+    "h4": "",
+    "img": "Frame214722684911_1_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-t81723w1-4-t80303d1-1",
+    "cta": "",
+    "pills": [
+     "28 %",
+     "New"
+    ],
+    "now": "12 952,80 kr",
+    "was": "17 990,00 kr"
+   },
+   {
+    "h3": "eufy Robot Vacuum Omni S2",
+    "h4": "",
+    "img": "Group4_3840x.png",
+    "vid": null,
+    "href": "/se/products/t2081g11",
+    "cta": "",
+    "pills": [
+     "25 %",
+     "New"
+    ],
+    "now": "14 992,50 kr",
+    "was": "19 990,00 kr"
+   },
+   {
+    "h3": "eufy PoE NVR Security System S4 with 2× Bullet-PTZ-Cameras and 2× Bullet-Cameras",
+    "h4": "",
+    "img": "1200_1200-2_513ba094-94d6-4034-b688-294bd5bef892_3840x.png",
+    "vid": null,
+    "href": "/se/products/e8e00122",
+    "cta": "",
+    "pills": [
+     "45 %",
+     "New"
+    ],
+    "now": "7 694,50 kr",
+    "was": "13 990,00 kr"
+   },
+   {
+    "h3": "eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive",
+    "h4": "",
+    "img": "1TB_1_f53c9b6e-ed30-417a-81ce-c8b688fbb65d_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-t88733w1-1-t80301d1-81-1",
+    "cta": "",
+    "pills": [
+     "39 %",
+     "Best Seller"
+    ],
+    "now": "5 483,90 kr",
+    "was": "8 990,00 kr"
+   },
+   {
+    "h3": "eufyCam S3 Pro 4-Cam Kit + Video Doorbell S220 Add-on",
+    "h4": "",
+    "img": "T8894_US_TD01_4_1_6859493b-8068-4b58-ac4e-6d6729031ef7_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-t88943w1-1-t82101w1-1",
+    "cta": "",
+    "pills": [
+     "27 %"
+    ],
+    "now": "8 022,70 kr",
+    "was": "10 990,00 kr"
+   },
+   {
+    "h3": "eufyCam C37 2K (4 Pack) + Homebase Mini + Solar Panel*4",
+    "h4": "",
+    "img": "E814X3261_3840x.png",
+    "vid": null,
+    "href": "/se/products/eufycam-c37-2k-4-pack-homebase-mini-solar-panel-4",
+    "cta": "",
+    "pills": [
+     "28 %",
+     "New"
+    ],
+    "now": "4 672,80 kr",
+    "was": "6 490,00 kr"
+   },
+   {
+    "h3": "SoloCam S340 (4 pack)",
+    "h4": "",
+    "img": "T8170_4_d92579ef-b2a7-4690-9ff4-3cf877f703b1_3840x.png",
+    "vid": null,
+    "href": "/se/products/bundle-t81703w1-4",
+    "cta": "",
+    "pills": [
+     "44 %",
+     "Best Seller"
+    ],
+    "now": "4 754,40 kr",
+    "was": "8 490,00 kr"
+   },
+   {
+    "h3": "eufy 4G LTE Cam S330",
+    "h4": "",
+    "img": "1_6b013fa9-0ddf-4a0f-a3ea-d186a23380a2_3840x.png",
+    "vid": null,
+    "href": "/se/products/t86p2321",
+    "cta": "",
+    "pills": [
+     "38 %",
+     "Best Seller"
+    ],
+    "now": "1 977,80 kr",
+    "was": "3 190,00 kr"
+   },
+   {
+    "h3": "eufy Robot Lawn Mower E18",
+    "h4": "",
+    "img": "Group2147239025_3840x.png",
+    "vid": null,
+    "href": "/se/products/t2801ga1",
+    "cta": "",
+    "pills": [
+     "31 %"
+    ],
+    "now": "11 033,10 kr",
+    "was": "15 990,00 kr"
+   }
+  ]
+ },
+ "s26": {
+  "h": 69,
+  "heading": {
+   "t": "soundcore",
+   "tag": "H2",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px] leading-[100%] font-bold text-[#080A0F]",
+   "w": 1573,
+   "h": 48,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "48px",
+   "fw": "700",
+   "lh": "48px",
+   "ls": "-1.92px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 0,
+  "imgs": 0,
+  "cards": []
+ },
+ "s27": {
+  "h": 640,
+  "heading": {
+   "t": "Top 3 GlobalWireless Headphone Brand",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] desktop:text-[32px] text-[24px] leading-[120%] font-bold item-title",
+   "w": 411,
+   "h": 77,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(245, 246, 247)",
+   "fs": "32px",
+   "fw": "700",
+   "lh": "38.4px",
+   "ls": "-1.28px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "block"
+  },
+  "slides": 0,
+  "vids": 4,
+  "imgs": 0,
+  "cards": []
+ },
+ "s30": {
+  "h": 480,
+  "heading": {
+   "t": "Liberty 5 Pro Max｜AI Recording Earbuds with Smart Case",
+   "tag": "H3",
+   "cls": "text-balance tracking-[-0.04em] lg-desktop:text-[24px] text-[20px] leading-[120%] font-bold shelf-display-product-title lg-desktop",
+   "w": 362,
+   "h": 58,
+   "bg": "rgba(0, 0, 0, 0)",
+   "col": "rgb(8, 10, 15)",
+   "fs": "24px",
+   "fw": "700",
+   "lh": "28.8px",
+   "ls": "-0.96px",
+   "rad": "0px",
+   "pad": "0px",
+   "gap": "normal",
+   "disp": "flow-root"
+  },
+  "slides": 8,
+  "vids": 0,
+  "imgs": 8,
+  "cards": [
+   {
+    "h3": "Liberty 5 Pro Max｜AI Recording Earbuds with Smart Case",
+    "h4": "",
+    "img": "D1204_black_new_logo1_3840x.png",
+    "vid": null,
+    "href": "/se/products/d1204",
+    "cta": "",
+    "pills": [
+     "Hot",
+     "New"
+    ],
+    "now": "2 690,00 kr",
+    "was": null
+   },
+   {
+    "h3": "soundcore Work | The World's First Coin-Sized AI Voice Recorder",
+    "h4": "",
+    "img": "D3200Z11_listing_image_07_US_V1_fb2d10ca-16b3-4bfd-a36e-71b0abb6aba41_3840x.png",
+    "vid": null,
+    "href": "/se/products/d3200",
+    "cta": "",
+    "pills": [
+     "24 %",
+     "Hot"
+    ],
+    "now": "1 284,40 kr",
+    "was": "1 690,00 kr"
+   },
+   {
+    "h3": "soundcore Space One | Active Noise Cancelling Headphones",
+    "h4": "",
+    "img": "Frame_2121237312_3840x.png",
+    "vid": null,
+    "href": "/se/products/space-one-a3035011",
+    "cta": "",
+    "pills": [
+     "31 %"
+    ],
+    "now": "890,10 kr",
+    "was": "1 290,00 kr"
+   },
+   {
+    "h3": "Nebula X1 | 4K Triple Laser Projector with Dolby Audio",
+    "h4": "",
+    "img": "image_1_268abe63-5273-43f6-bdbd-9bc7863c1f88_3840x.png",
+    "vid": null,
+    "href": "/se/products/d2351-nebula-x1-4k-triple-laser-projector",
+    "cta": "",
+    "pills": [
+     "43 %",
+     "Hot"
+    ],
+    "now": "19 944,30 kr",
+    "was": "34 990,00 kr"
+   },
+   {
+    "h3": "soundcore Nebula P1 | Portable Projector with Detachable Speakers",
+    "h4": "",
+    "img": "538d79b9411849f594156447d71cdfe1_3840x.png",
+    "vid": null,
+    "href": "/se/products/d2431-nebula-p1",
+    "cta": "",
+    "pills": [
+     "43 %",
+     "New"
+    ],
+    "now": "7 974,30 kr",
+    "was": "13 990,00 kr"
+   },
+   {
+    "h3": "soundcore Nebula P1i | World's First Smart Portable Projector with Flippable Speakers",
+    "h4": "",
+    "img": "D2200_Richimage_DTC_TD01_US_V1_3840x.png",
+    "vid": null,
+    "href": "/se/products/d2200-nebula-p1i",
+    "cta": "",
+    "pills": [
+     "43 %"
+    ],
+    "now": "3 984,30 kr",
+    "was": "6 990,00 kr"
+   },
+   {
+    "h3": "soundcore Liberty 4 Pro | Noise Cancelling True-Wireless Earbuds",
+    "h4": "",
+    "img": "A3954N11_DTC_listing_image_TD01_US_V1_be103e63-36db-48d6-867b-15752574f1f5_1_3840x.png",
+    "vid": null,
+    "href": "/se/products/a3954-liberty-4-pro-tws-earbuds",
+    "cta": "",
+    "pills": [
+     "35 %"
+    ],
+    "now": "1 293,50 kr",
+    "was": "1 990,00 kr"
+   },
+   {
+    "h3": "soundcore Nebula X1 Pro 4K Projector | World's First Mobile Theater Station",
+    "h4": "",
+    "img": "20251231-140552_3840x.png",
+    "vid": null,
+    "href": "/se/products/d2151-nebula-x1-pro",
+    "cta": "",
+    "pills": [
+     "36 %",
+     "New"
+    ],
+    "now": "44 793,60 kr",
+    "was": "69 990,00 kr"
+   }
+  ]
+ }
+}

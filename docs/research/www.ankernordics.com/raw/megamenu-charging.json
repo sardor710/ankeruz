@@ -1,0 +1,429 @@
+{
+ "vw": 1920,
+ "panelFound": true,
+ "panelCls": "absolute left-0 top-full z-[999] flex w-full flex-col overflow-hidden border-t border-b-[#E4E5E6] bg-black/70 text-black",
+ "panelRect": {
+  "x": 0,
+  "y": 171,
+  "width": 1920,
+  "height": 774,
+  "top": 171,
+  "right": 1920,
+  "bottom": 945,
+  "left": 0
+ },
+ "panelCs": {
+  "bg": "rgba(0, 0, 0, 0.7)",
+  "pos": "absolute",
+  "top": "96px",
+  "z": "999",
+  "shadow": "none",
+  "pad": "0px",
+  "transition": "all"
+ },
+ "scrim": {
+  "cls": "absolute left-0 top-full z-[999] flex w-full flex-col overflow-hidden border-t b",
+  "bg": "rgba(0, 0, 0, 0.7)",
+  "z": "999",
+  "pos": "absolute"
+ },
+ "tree": {
+  "tag": "div",
+  "cls": "absolute left-0 top-full z-[999] flex w-full flex-col overflow-hidden border-t border-b-[#E4E5E6] bg-black/70 text-black",
+  "a": {},
+  "cs": {
+   "bg": "rgba(0, 0, 0, 0.7)",
+   "fs": "14px",
+   "fw": "500",
+   "col": "rgb(0, 0, 0)",
+   "pad": "0px",
+   "r": "0px",
+   "gap": "normal",
+   "disp": "flex"
+  },
+  "rect": {
+   "w": 1920,
+   "h": 774,
+   "top": 171
+  },
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "relative z-50 overflow-hidden",
+    "a": {},
+    "cs": {
+     "bg": "rgba(0, 0, 0, 0)",
+     "fs": "14px",
+     "fw": "500",
+     "col": "rgb(0, 0, 0)",
+     "pad": "0px",
+     "r": "0px",
+     "gap": "normal",
+     "disp": "block"
+    },
+    "rect": {
+     "w": 1920,
+     "h": 311,
+     "top": 172
+    },
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "ipc_container relative z-10 w-full",
+      "a": {},
+      "cs": {
+       "bg": "rgb(245, 245, 247)",
+       "fs": "14px",
+       "fw": "500",
+       "col": "rgb(0, 0, 0)",
+       "pad": "0px",
+       "r": "0px",
+       "gap": "normal",
+       "disp": "block"
+      },
+      "rect": {
+       "w": 1920,
+       "h": 496,
+       "top": 172
+      },
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 lg-desktop:gap-12 flex bg-white gap-8 none none none",
+        "a": {},
+        "cs": {
+         "bg": "rgb(255, 255, 255)",
+         "fs": "14px",
+         "fw": "500",
+         "col": "rgb(0, 0, 0)",
+         "pad": "0px 128px",
+         "r": "0px",
+         "gap": "42px",
+         "disp": "flex"
+        },
+        "rect": {
+         "w": 1920,
+         "h": 496,
+         "top": 172
+        },
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "lg-desktop:basis-[356px] flex basis-[284px] flex-col gap-4 py-4",
+          "a": {},
+          "cs": {
+           "bg": "rgba(0, 0, 0, 0)",
+           "fs": "14px",
+           "fw": "500",
+           "col": "rgb(0, 0, 0)",
+           "pad": "14px 0px",
+           "r": "0px",
+           "gap": "14px",
+           "disp": "flex"
+          },
+          "rect": {
+           "w": 356,
+           "h": 496,
+           "top": 172
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "desktop:h-[416px] flex flex-col overflow-y-auto",
+            "a": {},
+            "cs": {
+             "bg": "rgba(0, 0, 0, 0)",
+             "fs": "14px",
+             "fw": "500",
+             "col": "rgb(0, 0, 0)",
+             "pad": "0px",
+             "r": "0px",
+             "gap": "normal",
+             "disp": "flex"
+            },
+            "rect": {
+             "w": 356,
+             "h": 416,
+             "top": 186
+            },
+            "kids": [
+             {
+              "tag": "div",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "normal",
+               "disp": "block"
+              },
+              "rect": {
+               "w": 356,
+               "h": 45,
+               "top": 186
+              }
+             },
+             {
+              "tag": "div",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "normal",
+               "disp": "block"
+              },
+              "rect": {
+               "w": 356,
+               "h": 45,
+               "top": 231
+              }
+             },
+             {
+              "tag": "div",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "normal",
+               "disp": "block"
+              },
+              "rect": {
+               "w": 356,
+               "h": 45,
+               "top": 276
+              }
+             },
+             {
+              "tag": "div",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "normal",
+               "disp": "block"
+              },
+              "rect": {
+               "w": 356,
+               "h": 45,
+               "top": 321
+              }
+             },
+             {
+              "tag": "div",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "normal",
+               "disp": "block"
+              },
+              "rect": {
+               "w": 356,
+               "h": 45,
+               "top": 367
+              }
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "flex",
+            "a": {},
+            "cs": {
+             "bg": "rgba(0, 0, 0, 0)",
+             "fs": "14px",
+             "fw": "500",
+             "col": "rgb(0, 0, 0)",
+             "pad": "0px",
+             "r": "0px",
+             "gap": "normal",
+             "disp": "flex"
+            },
+            "rect": {
+             "w": 356,
+             "h": 0,
+             "top": 616
+            },
+            "kids": [
+             {
+              "tag": "div",
+              "cls": "flex flex-col gap-4",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "14px",
+               "disp": "flex"
+              },
+              "rect": {
+               "w": 0,
+               "h": 0,
+               "top": 616
+              }
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "flex-1 py-4",
+          "a": {},
+          "cs": {
+           "bg": "rgba(0, 0, 0, 0)",
+           "fs": "14px",
+           "fw": "500",
+           "col": "rgb(0, 0, 0)",
+           "pad": "14px 0px",
+           "r": "0px",
+           "gap": "normal",
+           "disp": "block"
+          },
+          "rect": {
+           "w": 1266,
+           "h": 496,
+           "top": 172
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "mb-4 flex items-center justify-between",
+            "a": {},
+            "cs": {
+             "bg": "rgba(0, 0, 0, 0)",
+             "fs": "14px",
+             "fw": "500",
+             "col": "rgb(0, 0, 0)",
+             "pad": "0px",
+             "r": "0px",
+             "gap": "normal",
+             "disp": "flex"
+            },
+            "rect": {
+             "w": 1266,
+             "h": 28,
+             "top": 186
+            },
+            "kids": [
+             {
+              "tag": "a",
+              "cls": "rounded-btn cursor-pointer font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none text-info-primary hover:text-btn-primary-active border-none lg-desktop:px-7 lg-desktop:pb-[14px] lg-desktop:pt-[15px] lg-desktop:text-[16px] px-5 pb-[10px] pt-[11px] text-[14px] leading-tight flex items-center justify-start gap-2 !p-0 no-underline",
+              "a": {
+               "href": "/collections/chargers?ref=Charger_viewmore"
+              },
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "16px",
+               "fw": "700",
+               "col": "rgb(8, 10, 15)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "7px",
+               "disp": "flex"
+              },
+              "rect": {
+               "w": 185,
+               "h": 28,
+               "top": 186
+              }
+             }
+            ]
+           },
+           {
+            "tag": "div",
+            "cls": "flex h-[426px] flex-col gap-4 overflow-y-auto",
+            "a": {},
+            "cs": {
+             "bg": "rgba(0, 0, 0, 0)",
+             "fs": "14px",
+             "fw": "500",
+             "col": "rgb(0, 0, 0)",
+             "pad": "0px",
+             "r": "0px",
+             "gap": "14px",
+             "disp": "flex"
+            },
+            "rect": {
+             "w": 1266,
+             "h": 426,
+             "top": 228
+            },
+            "kids": [
+             {
+              "tag": "div",
+              "a": {},
+              "cs": {
+               "bg": "rgba(0, 0, 0, 0)",
+               "fs": "14px",
+               "fw": "500",
+               "col": "rgb(0, 0, 0)",
+               "pad": "0px",
+               "r": "0px",
+               "gap": "normal",
+               "disp": "block"
+              },
+              "rect": {
+               "w": 1266,
+               "h": 379,
+               "top": 228
+              }
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tag": "div",
+    "cls": "flex-1 bg-transparent",
+    "a": {
+     "aria-label": "Close menu"
+    },
+    "cs": {
+     "bg": "rgba(0, 0, 0, 0)",
+     "fs": "14px",
+     "fw": "500",
+     "col": "rgb(0, 0, 0)",
+     "pad": "0px",
+     "r": "0px",
+     "gap": "normal",
+     "disp": "block"
+    },
+    "rect": {
+     "w": 1920,
+     "h": 462,
+     "top": 483
+    },
+    "kids": []
+   }
+  ]
+ }
+}

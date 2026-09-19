@@ -1,0 +1,198 @@
+{
+ "announcementSlides": [
+  {
+   "text": "New Arrivals Unveiled – Don’t Miss Out",
+   "href": "https://www.ankernordics.com/collections/new-releases"
+  },
+  {
+   "text": "Premium Refurbished - Save More, Waste Less",
+   "href": "https://www.ankernordics.com/collections/refurbished"
+  },
+  {
+   "text": "New Week, New Deals – Shop and Save.",
+   "href": "https://www.ankernordics.com/deals"
+  }
+ ],
+ "announcementTree": {
+  "tag": "div",
+  "cls": "top-0 z-[55] flex h-[45px] items-center sticky",
+  "a": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "h-full w-safe",
+    "a": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "swiper swiper-initialized swiper-horizontal h-full swiper-backface-hidden",
+      "a": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "swiper-wrapper",
+        "a": {},
+        "kids": [
+         {
+          "tag": "div",
+          "cls": "swiper-slide swiper-slide-next",
+          "a": {},
+          "kids": [
+           {
+            "tag": "a",
+            "cls": "flex h-[45px] items-center justify-center text-brand",
+            "a": {
+             "href": "https://www.ankernordics.com/collections/new-releases"
+            }
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "swiper-slide swiper-slide-prev",
+          "a": {},
+          "kids": [
+           {
+            "tag": "a",
+            "cls": "flex h-[45px] items-center justify-center text-brand",
+            "a": {
+             "href": "https://www.ankernordics.com/collections/refurbished"
+            }
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "cls": "swiper-slide swiper-slide-active",
+          "a": {},
+          "kids": [
+           {
+            "tag": "a",
+            "cls": "flex h-[45px] items-center justify-center text-brand",
+            "a": {
+             "href": "https://www.ankernordics.com/deals"
+            }
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "brandBarFound": true,
+ "brandBarCls": "relative z-[46] box-border h-[30px]",
+ "brandBarTree": {
+  "tag": "div",
+  "cls": "relative z-[46] box-border h-[30px]",
+  "a": {},
+  "kids": [
+   {
+    "tag": "div",
+    "cls": "h-full ipc_container relative z-10 w-full",
+    "a": {},
+    "kids": [
+     {
+      "tag": "div",
+      "cls": "lg-desktop:max-w-full mx-auto size-full tablet:px-8 laptop:px-16 desktop:px-16 lg-desktop:px-[calc(50%-832px)] px-4 flex !bg-[#080A0F] items-center justify-between none none none",
+      "a": {},
+      "kids": [
+       {
+        "tag": "div",
+        "cls": "flex h-full items-center gap-2 py-[5px]",
+        "a": {},
+        "kids": [
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "a": {
+           "href": "https://www.ankernordics.com/anker?ref=header"
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "laptop:block hidden h-fit transition-all duration-200 [&_svg]:h-full [&_svg]:w-auto [&_svg_path]:transition-all [&_svg_path]:duration-200 [&_svg_path]:[fill:#75787F] [&_svg_path]:hover:[fill:#FFFFFF]",
+            "a": {}
+           }
+          ]
+         },
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "a": {
+           "href": "https://www.ankernordics.com/eufy?ref=header"
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "laptop:block hidden h-fit transition-all duration-200 [&_svg]:h-full [&_svg]:w-auto [&_svg_path]:transition-all [&_svg_path]:duration-200 [&_svg_path]:[fill:#75787F] [&_svg_path]:hover:[fill:#FFFFFF]",
+            "a": {}
+           }
+          ]
+         },
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "a": {
+           "href": "https://www.ankernordics.com/eufymake?ref=header"
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "laptop:block hidden h-fit transition-all duration-200 [&_svg]:h-full [&_svg]:w-auto [&_svg_path]:transition-all [&_svg_path]:duration-200 [&_svg_path]:[fill:#75787F] [&_svg_path]:hover:[fill:#FFFFFF]",
+            "a": {}
+           }
+          ]
+         },
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 hidden h-full laptop:block cursor-pointer",
+          "a": {
+           "href": "https://www.ankernordics.com/soundcore?ref=header"
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "laptop:block hidden h-fit transition-all duration-200 [&_svg]:h-full [&_svg]:w-auto [&_svg_path]:transition-all [&_svg_path]:duration-200 [&_svg_path]:[fill:#75787F] [&_svg_path]:hover:[fill:#FFFFFF]",
+            "a": {}
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "tag": "div",
+        "cls": "flex h-full items-center justify-end gap-2 py-[5px]",
+        "a": {},
+        "kids": [
+         {
+          "tag": "a",
+          "cls": "tracking font-bold underline transition-colors text-text-2 text-info-primary hover:text-brand-0 flex h-full items-center cursor-pointer",
+          "a": {
+           "href": "https://www.anker-in.com?ref=header"
+          },
+          "kids": [
+           {
+            "tag": "div",
+            "cls": "board-right-icon h-fit [&_svg]:h-full [&_svg]:w-auto",
+            "a": {}
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "brandBarStyles": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "h": 30,
+  "px": "0px"
+ }
+}

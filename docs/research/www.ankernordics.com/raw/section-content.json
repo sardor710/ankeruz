@@ -1,0 +1,1490 @@
+[
+ {
+  "i": 0,
+  "y": 127,
+  "h": 600,
+  "cls": "jsx-1b8342bccf397301 banner-mod-container",
+  "imgs": [
+   {
+    "src": "pc_1_2878x.png",
+    "alt": "",
+    "w": 2878,
+    "h": 1313
+   },
+   {
+    "src": "A121D_Final_07a25412-2d49-465e-a4af-437d6ac8d849_2878x.png",
+    "alt": "",
+    "w": 2878,
+    "h": 1394
+   },
+   {
+    "src": "20260629-144002_2878x.jpg",
+    "alt": "",
+    "w": 1920,
+    "h": 930
+   },
+   {
+    "src": "Group_2147239065_1_2878x.png",
+    "alt": "",
+    "w": 2878,
+    "h": 1394
+   },
+   {
+    "src": "7ce16887-e04e-451f-bd95-31b9fff19ce2_C15-KVx2-EN-PC-1_2878x.jpg",
+    "alt": "",
+    "w": 2878,
+    "h": 1394
+   },
+   {
+    "src": "af077964f4bfa9e16243864274d179dc.png",
+    "alt": "Previous",
+    "w": 112,
+    "h": 112
+   },
+   {
+    "src": "26a6c0b0c359c39caa5ba6e35385cdcf.png",
+    "alt": "Next",
+    "w": 112,
+    "h": 112
+   }
+  ],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/robot-vacuum-s2?ref=image_hero_banner",
+   "https://www.ankernordics.com/products/t2081g11?ref=image_hero_banner",
+   "https://www.ankernordics.com/a121d?ref=image_hero_banner",
+   "https://www.ankernordics.com/products/anker-nano-45w-smart-display-charger?ref=image_hero_banner",
+   "https://www.ankernordics.com/tomorrowland?ref=image_hero_banner",
+   "https://www.ankernordics.com/liberty-5-pro-series?ref=image_hero_banner",
+   "https://www.ankernordics.com/products/d1204?ref=image_hero_banner",
+   "https://www.ankernordics.com/eufy-c15-robot-lawn-mower?ref=image_hero_banner",
+   "https://www.ankernordics.com/products/t280b3a2?ref=image_hero_banner"
+  ],
+  "text": [
+   "p: eufy Robot Vacuum Omni S2",
+   "span: 15× Longer-Lasting Suction<br>Day-One Deep Cleaning, All Year Long",
+   "a: Buy Now",
+   "p: Anker Nano 45W Smart Display Charger",
+   "span: The World's First Smart Display, <br>Charger That Knows Your iPhone.",
+   "h2: Ultimate Connection",
+   "p: Jul. 17-19/24-26 2026",
+   "a: Learn More",
+   "p: Liberty 5 Pro Series",
+   "span: The World's First Smart Screen<br/>Earbuds with Al Note-Taker.",
+   "a: Liberty 5 Pro Series",
+   "p: eufy Lawn Mower C15",
+   "span: No Wire, No Hassle.<br/>Just eufy Al Vision."
+  ]
+ },
+ {
+  "i": 2,
+  "y": 783,
+  "h": 99,
+  "cls": "ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [],
+  "links": [],
+  "text": [
+   "p: 146+ Countries and Regions",
+   "p: 200M+ Global Consumers",
+   "p: 5,000+ Worldwide Employees"
+  ]
+ },
+ {
+  "i": 5,
+  "y": 912,
+  "h": 215,
+  "cls": "ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "b5c7b7a4-ecaa-4d25-b2fb-82724ee79225_Outdoor_Cameras_---_eufyCam_S4_---_T8172_2878x.png",
+    "alt": "",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "9fcb3933-c52a-4137-bd96-c0375085f98f_Frame_2121236702-1_2878x.png",
+    "alt": "",
+    "w": 876,
+    "h": 876
+   },
+   {
+    "src": "2596d36d-467b-4634-a91d-deaa1995a9d3_Lawn_Mowers_---_eufy_Robot_Mower_E15_---_T2880_1_2878x.png",
+    "alt": "eufy robot lawn mower with ankernordics EN efficient grass cutting",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "d8992fa3-d9ea-42d9-88db-f9ac1dec4afe_image_2_cc869b66-897d-4b28-aba8-5010574118af_5_1_2878x.png",
+    "alt": "",
+    "w": 873,
+    "h": 873
+   },
+   {
+    "src": "e43811d1-a6e0-4115-a8cc-15e32d0b1f4e_Power_Banks_---_A110A_1_2878x.png",
+    "alt": "Anker power bank with digital display for ankernordics",
+    "w": 216,
+    "h": 216
+   },
+   {
+    "src": "37cdda9d-3a7f-4764-8fb5-304b27a8f362_Chargers_---_A2687_2878x.png",
+    "alt": "Anker charger with LED display and fast charging ports ankernordics",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "c023e02d-c011-44f7-aa75-ee549c92aec2_Cables_---_A88E2_1_2878x.png",
+    "alt": "Anker cable with braided design for ankernordics",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "634a074c-5a7f-4700-af15-5ab2a8255bdf_Hubs_and_Docks_---_A83B3_2878x.png",
+    "alt": "Anker charging station with digital display for ankernordics",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "f106c0b9-fb0c-4758-89b5-fb4745470560_Wireless_Chargers_---_A25X7_3840x.png",
+    "alt": "Anker wireless charging stand with ankernordics and EN",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "953d149b-625e-4fc6-809d-849a16e91d4c_AC_Power_---_A91B2_3840x.png",
+    "alt": "Anker charging device with Prime technology ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "d9092695-10db-4886-aea2-05648a698feb_Car_Chargers_---_A2933_3840x.png",
+    "alt": "Anker wireless car charger with vent mount, ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "7e19d813-66e0-4868-b376-fa55969a994d_Smart_Lights_---_Permanent_Outdoor_Light_S4_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "00134846-f329-4b97-ab05-1857ec1fb1c4_Breast_Pumps_---_Wearable_Breast_Pump_S1_Pro_3840x.png",
+    "alt": "eufy wearable breast pump with wireless app control ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "53c4aa16-56e6-4087-b5be-34ccf3e15679_Frame_21212367011_3840x.png",
+    "alt": "eufy floor cleaner with large white dust bag and three small dust bags ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "ca6514fd-d26e-4ad2-9519-ae891e922fee_HomeBase_---_HomeBase_S380_HomeBase_3_---_T8030_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "f50a7025-97be-4d6f-b31b-cfac7647529e_Smart_Displays_---_Smart_Display_E10_---_T87A0_3840x.png",
+    "alt": "eufy smart screen with ankernordics, live streaming and event mode",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "35ca0a39-f76f-4da5-8a1c-e7c769aa2272_PoE_Cameras_---_NVR_Security_System_S4_Max_8_Channels_NVR_with_4_PoE_Bullet-PTZ_Cameras_---_E8E00_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "e2c5d751-6be8-4196-8248-18f328f20d54_Indoor_Cameras_---_Indoor_Cam_S350_---_T8416_1_3840x.png",
+    "alt": "eufy security camera ankernordics with dual lenses for monitoring",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "2639e1bf-9ade-4357-9f50-767127b9f844_Voice_Recorders_---_soundcore_Work_AI_Recorder_---_D3200_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "27850d6f-618d-47ff-b95f-98fce4cbb786_True_Wireless_Earbuds_---_Liberty_5_---_A3957_1_3840x.png",
+    "alt": "ankernordics soundcore wireless earbuds with sleek design",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "2cb7f4fe-2f13-46eb-847b-43c04448f1a8_Open-Ear_Earbuds_---_Aerofit_Pro_2_---_A3875_1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "08d52a71-1b9a-4893-9824-ee964ad26cca_image_3_-1_3840x.png",
+    "alt": "soundcore headphone with over-ear design for comfort",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "385dea93-f4a2-4027-bf51-9b2447c96c5d_Speakers_---_Rave_3S_---_A31A3_1_3840x.png",
+    "alt": "soundcore speaker with vibrant RGB lights ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "f32f981e-80f1-41ee-9346-2ca9b57484c0_Smart_Projectors_---_X1_---_D2351_1_3840x.png",
+    "alt": "soundcore Nebula with handle, ankernordics, compact design",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "b5c7b7a4-ecaa-4d25-b2fb-82724ee79225_Outdoor_Cameras_---_eufyCam_S4_---_T8172_2878x.png",
+    "alt": "",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "9fcb3933-c52a-4137-bd96-c0375085f98f_Frame_2121236702-1_2878x.png",
+    "alt": "",
+    "w": 876,
+    "h": 876
+   },
+   {
+    "src": "2596d36d-467b-4634-a91d-deaa1995a9d3_Lawn_Mowers_---_eufy_Robot_Mower_E15_---_T2880_1_2878x.png",
+    "alt": "eufy robot lawn mower with ankernordics EN efficient grass cutting",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "d8992fa3-d9ea-42d9-88db-f9ac1dec4afe_image_2_cc869b66-897d-4b28-aba8-5010574118af_5_1_2878x.png",
+    "alt": "",
+    "w": 873,
+    "h": 873
+   },
+   {
+    "src": "e43811d1-a6e0-4115-a8cc-15e32d0b1f4e_Power_Banks_---_A110A_1_2878x.png",
+    "alt": "Anker power bank with digital display for ankernordics",
+    "w": 216,
+    "h": 216
+   },
+   {
+    "src": "37cdda9d-3a7f-4764-8fb5-304b27a8f362_Chargers_---_A2687_2878x.png",
+    "alt": "Anker charger with LED display and fast charging ports ankernordics",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "c023e02d-c011-44f7-aa75-ee549c92aec2_Cables_---_A88E2_1_2878x.png",
+    "alt": "Anker cable with braided design for ankernordics",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "634a074c-5a7f-4700-af15-5ab2a8255bdf_Hubs_and_Docks_---_A83B3_2878x.png",
+    "alt": "Anker charging station with digital display for ankernordics",
+    "w": 324,
+    "h": 324
+   },
+   {
+    "src": "f106c0b9-fb0c-4758-89b5-fb4745470560_Wireless_Chargers_---_A25X7_3840x.png",
+    "alt": "Anker wireless charging stand with ankernordics and EN",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "953d149b-625e-4fc6-809d-849a16e91d4c_AC_Power_---_A91B2_3840x.png",
+    "alt": "Anker charging device with Prime technology ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "d9092695-10db-4886-aea2-05648a698feb_Car_Chargers_---_A2933_3840x.png",
+    "alt": "Anker wireless car charger with vent mount, ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "7e19d813-66e0-4868-b376-fa55969a994d_Smart_Lights_---_Permanent_Outdoor_Light_S4_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "00134846-f329-4b97-ab05-1857ec1fb1c4_Breast_Pumps_---_Wearable_Breast_Pump_S1_Pro_3840x.png",
+    "alt": "eufy wearable breast pump with wireless app control ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "53c4aa16-56e6-4087-b5be-34ccf3e15679_Frame_21212367011_3840x.png",
+    "alt": "eufy floor cleaner with large white dust bag and three small dust bags ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "ca6514fd-d26e-4ad2-9519-ae891e922fee_HomeBase_---_HomeBase_S380_HomeBase_3_---_T8030_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "f50a7025-97be-4d6f-b31b-cfac7647529e_Smart_Displays_---_Smart_Display_E10_---_T87A0_3840x.png",
+    "alt": "eufy smart screen with ankernordics, live streaming and event mode",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "35ca0a39-f76f-4da5-8a1c-e7c769aa2272_PoE_Cameras_---_NVR_Security_System_S4_Max_8_Channels_NVR_with_4_PoE_Bullet-PTZ_Cameras_---_E8E00_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "e2c5d751-6be8-4196-8248-18f328f20d54_Indoor_Cameras_---_Indoor_Cam_S350_---_T8416_1_3840x.png",
+    "alt": "eufy security camera ankernordics with dual lenses for monitoring",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "2639e1bf-9ade-4357-9f50-767127b9f844_Voice_Recorders_---_soundcore_Work_AI_Recorder_---_D3200_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "27850d6f-618d-47ff-b95f-98fce4cbb786_True_Wireless_Earbuds_---_Liberty_5_---_A3957_1_3840x.png",
+    "alt": "ankernordics soundcore wireless earbuds with sleek design",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "2cb7f4fe-2f13-46eb-847b-43c04448f1a8_Open-Ear_Earbuds_---_Aerofit_Pro_2_---_A3875_1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "08d52a71-1b9a-4893-9824-ee964ad26cca_image_3_-1_3840x.png",
+    "alt": "soundcore headphone with over-ear design for comfort",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "385dea93-f4a2-4027-bf51-9b2447c96c5d_Speakers_---_Rave_3S_---_A31A3_1_3840x.png",
+    "alt": "soundcore speaker with vibrant RGB lights ankernordics",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "f32f981e-80f1-41ee-9346-2ca9b57484c0_Smart_Projectors_---_X1_---_D2351_1_3840x.png",
+    "alt": "soundcore Nebula with handle, ankernordics, compact design",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/collections/outdoor-cameras?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/robot-vacuum?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/lawn-mower?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/sleep-earbuds?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/power-banks?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/chargers?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/cables?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/hubs-and-docks?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/wireless-chargers?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/ac-power?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/car-chargers?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/outdoor-light?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/baby-1?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/ap-accessory?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/homebase?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/smart-display?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/poe-cameras?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/Indoor-cameras?ref=image_category_banner",
+   "https://www.ankernordics.com/products/d3200?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/true-wireless-earbuds?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/open-ear-headphones?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/headphones?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/speakers?ref=image_category_banner",
+   "https://www.ankernordics.com/collections/projectors?ref=image_category_banner"
+  ],
+  "text": [
+   "p: Outdoor Cameras",
+   "p: Robot Vacuum",
+   "p: Lawn Mowers",
+   "p: Sleep Earbuds",
+   "p: Power Banks",
+   "p: Chargers",
+   "p: Cables",
+   "p: Hubs and Docks",
+   "p: Wireless Chargers",
+   "p: AC Power",
+   "p: Car Chargers",
+   "p: Smart Lights",
+   "p: Breast Pumps",
+   "p: eufy Cleaning Accessories",
+   "p: HomeBase",
+   "p: Smart Displays",
+   "p: PoE Cameras",
+   "p: Indoor Cameras",
+   "p: Voice Recorders",
+   "p: Truly Wireless Earbuds",
+   "p: Open-Ear Earbuds",
+   "p: Open-Ear Headphones",
+   "p: Speakers",
+   "p: Projectors"
+  ]
+ },
+ {
+  "i": 7,
+  "y": 1182,
+  "h": 591,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "D1204_black_new_logo1_2878x.png",
+    "alt": "Liberty 5 Pro Max｜AI Recording Earbuds with Smart Case",
+    "w": 2000,
+    "h": 2000
+   },
+   {
+    "src": "Frame_2121236678_fd0edbba-3936-4c27-be24-1bf04ea36b6c_2878x.png",
+    "alt": "eufy All-in-one station with self-emptying and hot air drying",
+    "w": 880,
+    "h": 785
+   },
+   {
+    "src": "Background_2878x.png",
+    "alt": "eufyCam S4 (4K Bullet + 2K PTZ)",
+    "w": 2028,
+    "h": 2028
+   },
+   {
+    "src": "A1654_NO_7_a3e1a71c-b152-49fc-912b-c94c8f39c894_2878x.png",
+    "alt": "Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+    "w": 2400,
+    "h": 2400
+   },
+   {
+    "src": "T8894_b8dffb8b-bd31-4d68-8ceb-8d2c883aca97_2878x.png",
+    "alt": "eufyCam S3 Pro 4-Cam Kit",
+    "w": 2400,
+    "h": 2424
+   },
+   {
+    "src": "Frame_2147226845_1_3840x.png",
+    "alt": "eufy X10 Pro Omni (Black)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Group2147226706_3840x.png",
+    "alt": "soundcore Sleep A30 | The World's First Smart ANC Sleep Earbuds",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "S330eufyCam_eufyCam3_4-CamKit_b17a38ea-fe94-4e33-bce9-80c1035cd6a2_3840x.png",
+    "alt": "eufyCam S330 (eufyCam 3) 4-Cam Kit",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "B26973Z1_6a2bdbf3-64c0-46de-98c9-fd1eeff8a042_3840x.png",
+    "alt": "Anker Laptop Charger (140W, 4-Port, PD 3.1) with USB-C Cable",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "A1654_NO_9_3840x.png",
+    "alt": "Anker Prime Charger (250W, 6 Ports, GaNPrime)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "A2683141_TD01_V1-removebg-preview_c9b28353-d978-4787-b69a-e579a69f3996_3840x.png",
+    "alt": "Anker Prime Charger (200W, 6 Ports, GaN)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "1060_1060_aedb0b10-557d-4476-a1d9-28ef281b3d9a_3840x.png",
+    "alt": "Video Doorbell E340",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "/se/products/d1204?variant=51328970817814&ref=image_product_shelf",
+   "/se/products/t2353g11?variant=50663510507798&ref=image_product_shelf",
+   "/se/products/t81723w1?variant=50460612886806&ref=image_product_shelf",
+   "/se/products/a1695-anker-power-bank-25000mah-165w?variant=49733314576662&ref=image_product_shelf",
+   "/se/products/t88943w1?variant=49662978457878&ref=image_product_shelf",
+   "/se/products/t2351g11?variant=50663100186902&ref=image_product_shelf",
+   "/se/products/soundcore-sleep-a30-offline?variant=50422939353366&ref=image_product_shelf",
+   "/se/products/t88733w1?variant=49662939922710&ref=image_product_shelf",
+   "/se/products/a2697-anker-charger-140w-4-port?variant=49799124123926&ref=image_product_shelf",
+   "/se/products/a2345-anker-prime-charger-250w-6-ports-ganprime?variant=49737766633750&ref=image_product_shelf",
+   "/se/products/a2683-anker-prime-charger-200w-6-ports-gan?variant=49663142396182&ref=image_product_shelf",
+   "/se/products/t8214311?variant=49662941921558&ref=image_product_shelf"
+  ],
+  "text": [
+   "button: Best Seller",
+   "button: Today's Deal",
+   "span: Hot",
+   "span: New",
+   "h3: Liberty 5 Pro Max｜AI Recording Earbuds with Smart Case",
+   "button: Shop Now",
+   "span: Best Seller",
+   "h3: eufy Robot Vacuum Omni E25 (Black)",
+   "h3: eufyCam S4 (4K Bullet + 2K PTZ)",
+   "span: 29 %",
+   "h3: Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+   "h3: eufyCam S3 Pro 4-Cam Kit",
+   "span: 55 %",
+   "h3: eufy X10 Pro Omni (Black)",
+   "h3: soundcore Sleep A30 | The World's First Smart ANC Sleep Earbuds",
+   "h3: eufyCam S330 (eufyCam 3) 4-Cam Kit",
+   "h3: Anker Laptop Charger (140W, 4-Port, PD 3.1) with USB-C Cable",
+   "h3: Anker Prime Charger (250W, 6 Ports, GaNPrime)",
+   "span: 23 %",
+   "h3: Anker Prime Charger (200W, 6 Ports, GaN)",
+   "h3: Video Doorbell E340"
+  ]
+ },
+ {
+  "i": 9,
+  "y": 1829,
+  "h": 53,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [],
+  "links": [],
+  "text": [
+   "p: What's New"
+  ]
+ },
+ {
+  "i": 10,
+  "y": 1882,
+  "h": 504,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "D1205_PC_1664x640_2.png",
+    "alt": "",
+    "w": 2176,
+    "h": 2560
+   },
+   {
+    "src": "D1205_PC_1664x640_3.png",
+    "alt": "",
+    "w": 1184,
+    "h": 1600
+   },
+   {
+    "src": "Frame_2147238604_2878x.png",
+    "alt": "",
+    "w": 1088,
+    "h": 1280
+   },
+   {
+    "src": "Frame_2147238605_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_2147238602_2878x.png",
+    "alt": "",
+    "w": 1088,
+    "h": 1280
+   },
+   {
+    "src": "Frame_2147238603_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_2147238600_2878x.png",
+    "alt": "",
+    "w": 1632,
+    "h": 1920
+   },
+   {
+    "src": "Frame_2147238601_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_2147238573_1_2878x.png",
+    "alt": "",
+    "w": 1088,
+    "h": 1280
+   },
+   {
+    "src": "Frame_2147238574_1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "D1203Z21_rich-image_elkjop_NOD_soundcore_03_EN_V1_2878x.png",
+    "alt": "",
+    "w": 1088,
+    "h": 1280
+   },
+   {
+    "src": "D1203Z21_rich-image_elkjop_NOD_soundcore_03_EN_V1_1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "b83f5665-bd54-4231-ac0c-f21035226ac9_T814X_Banner_Listing_Image_01_no_copy_1060x1060px_3.png",
+    "alt": "",
+    "w": 1088,
+    "h": 1280
+   },
+   {
+    "src": "0fe340c7-7544-46d5-8295-67c7090005f2_T814X_Banner_Listing_Image_01_no_copy_1060x1060px_2.png",
+    "alt": "",
+    "w": 592,
+    "h": 800
+   },
+   {
+    "src": "681d9e07-9017-4d9e-bb2c-7dceca8681e6_Frame_2147226853-1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "074c0a35-ef2d-44bd-a7fc-1a9cd541d697_Frame_2147226854-1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/products/d1205?ref=image_p1_banner",
+   "https://www.ankernordics.com/products/a210b?ref=image_p1_banner",
+   "https://www.ankernordics.com/products/b25n1?ref=image_p1_banner",
+   "https://www.ankernordics.com/eufy-bottle-washer-s1?ref=image_p1_banner",
+   "https://www.ankernordics.com/products/t6010082?ref=image_p1_banner",
+   "https://www.ankernordics.com/products/t600p082?ref=image_p1_banner",
+   "https://www.ankernordics.com/anker-thus-ai-chip?ref=image_p1_banner",
+   "https://www.ankernordics.com/products/t814x321?ref=image_p1_banner",
+   "https://www.ankernordics.com/products/t817l420?ref=image_p1_banner"
+  ],
+  "text": [
+   "h3: soundcore P42i",
+   "h4: Quiet The Noise, Focus on What Matters Most",
+   "a: Buy Now",
+   "h3: Anker Nano USB-C Hub (8-in-1, Dual Display)",
+   "h4: Your Workflow, with Full Energy",
+   "h3: 25W Max Palm-Sized 3-in-1",
+   "h4: Wireless Charger with Active Cooling",
+   "h3: eufy Baby Bottle Washer S1 Pro",
+   "h4: World's First Bottle Washer with Water Softener",
+   "span: eufy Baby Bottle Washer S1 Pro",
+   "h3: eufy Wearable Breast Pump S2 Pro",
+   "h4: Feel the Heated Massage, Own Your Flow",
+   "h3: ANKER Thus™ 150× Computing Power*",
+   "span: ANKER Thus™ 150× Computing Power*",
+   "h3: eufyCam C37",
+   "h4: Total Coverage. Zero Hassle.",
+   "h3: eufy Wired Cam C31",
+   "h4: Auto Tracking, Indoors or Outdoors"
+  ]
+ },
+ {
+  "i": 12,
+  "y": 2443,
+  "h": 556,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "a41385e5-a4d7-420a-ada1-ced25a2d083f_Frame_241_2878x.png",
+    "alt": "",
+    "w": 1648,
+    "h": 1280
+   },
+   {
+    "src": "f37fb55d-7cb0-485a-be6e-952063043701_Frame_2589_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "ec53e5f4-d915-4625-bd49-1d13bbe5d60f_Frame_2499_2878x.png",
+    "alt": "",
+    "w": 1648,
+    "h": 1280
+   },
+   {
+    "src": "a0d9270a-18a5-454c-acec-f759a7b6a3ac_Frame_2600_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "a41385e5-a4d7-420a-ada1-ced25a2d083f_Frame_241_2878x.png",
+    "alt": "",
+    "w": 1648,
+    "h": 1280
+   },
+   {
+    "src": "f37fb55d-7cb0-485a-be6e-952063043701_Frame_2589_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "ec53e5f4-d915-4625-bd49-1d13bbe5d60f_Frame_2499_2878x.png",
+    "alt": "",
+    "w": 1648,
+    "h": 1280
+   },
+   {
+    "src": "a0d9270a-18a5-454c-acec-f759a7b6a3ac_Frame_2600_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/ptz-cam?ref=image_p1_banner",
+   "https://www.ankernordics.com/collections/robot-vacuum?ref=image_p1_banner",
+   "https://www.ankernordics.com/collections/robot-vacuums?ref=image_p1_banner"
+  ],
+  "text": [
+   "h2: Explore All Brands during Sale",
+   "h3: Pan-Tilt-Zoom Cameras",
+   "h4: See more, secure more with 360° coverage",
+   "a: Learn More",
+   "h3: Robot Vacuum"
+  ]
+ },
+ {
+  "i": 14,
+  "y": 3055,
+  "h": 53,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/anker?ref=link_title"
+  ],
+  "text": [
+   "p: Anker"
+  ]
+ },
+ {
+  "i": 15,
+  "y": 3108,
+  "h": 500,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [
+   "76eee370bf62410ca08c839be6382529.mp4",
+   "2c94c918738f49fa839decfef3e362e0.mp4",
+   "76eee370bf62410ca08c839be6382529.mp4",
+   "2c94c918738f49fa839decfef3e362e0.mp4"
+  ],
+  "links": [
+   "/se?ref=image_p1_banner",
+   "https://www.ankernordics.com/anker?ref=image_p1_banner"
+  ],
+  "text": [
+   "h3: Live Charged.",
+   "h4: The world's No. 1 mobile charging brand",
+   "a: Learn More"
+  ]
+ },
+ {
+  "i": 18,
+  "y": 3623,
+  "h": 473,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "Frame_2121237348_3840x.png",
+    "alt": "Anker Prime Power Bank (26K, 300W)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_20000_3840x.png",
+    "alt": "Anker Prime Charger (160W, 3 Ports, Smart Display)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Bundle-A121D311-2_Rich_image_TD01_EN_V2_3840x.png",
+    "alt": "Anker Nano 45W Smart Display Charger (2-Pack)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "A210B_3840x.png",
+    "alt": "Anker Nano USB-C Hub (8-in-1, Dual Display), 10 Gbps Speed, 85W Max Fast Laptop Charging",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_1_3_1_3840x.png",
+    "alt": "Anker Laptop Charger (140W, 4-Port, PD 3.1) with USB-C Cable + Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_212_3840x.png",
+    "alt": "Anker <b>735</b> Charger (Nano II 65W) (2-Pack)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "A1654_NO_7_a3e1a71c-b152-49fc-912b-c94c8f39c894_2878x.png",
+    "alt": "Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+    "w": 2400,
+    "h": 2400
+   },
+   {
+    "src": "Frame2121237302_3840x.png",
+    "alt": "Anker Prime Power Bank (20K, 220W) + Anker USB-C to USB-C Cable (240W, Upcycled-Braided)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "A1665H11_Richimage_TD01_US_V2_ecb9e223-317d-4627-8039-5ce21a47288e_3840x.png",
+    "alt": "Anker Nano Power Bank (5K, MagGo, Slim)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Rich_image_US_5000x6258px_1_98cdf5fb-acb7-486b-86c5-ae12778a6b58.png",
+    "alt": "Anker Prime Charger (100W, 3 Ports, GaN)",
+    "w": 3190,
+    "h": 3994
+   }
+  ],
+  "vids": [],
+  "links": [
+   "/se/products/a110ah11?variant=50753434059030&ref=image_product_shelf",
+   "/se/products/a2687-anker-prime-charger-160w-3-ports-gan?variant=50880570097942&ref=image_product_shelf",
+   "/se/products/a121d-45w-usb-c-fast-charger-2-pack?variant=51230704992534&ref=image_product_shelf",
+   "/se/products/a210b?variant=51571762921750&ref=image_product_shelf",
+   "/se/products/bundle-b26973z1-1-a1695h11-1?variant=50541567475990&ref=image_product_shelf",
+   "/se/products/bundle-a2667314-2?variant=50664291991830&ref=image_product_shelf",
+   "/se/products/a1695-anker-power-bank-25000mah-165w?variant=49733314576662&ref=image_product_shelf",
+   "/se/products/bundle-a110bh11-1-a82e2011-1?variant=50847059968278&ref=image_product_shelf",
+   "/se/products/a1665-anker-nano-powerbank-5000mah?variant=50457648070934&ref=image_product_shelf",
+   "/se/products/a2688-anker-prime-charger-100w-3-ports-gan?variant=49663147802902&ref=image_product_shelf"
+  ],
+  "text": [
+   "span: 20 %",
+   "span: Best Seller",
+   "h3: Anker Prime Power Bank (26K, 300W)",
+   "button: Shop Now",
+   "span: 24 %",
+   "h3: Anker Prime Charger (160W, 3 Ports, Smart Display)",
+   "span: 11 %",
+   "span: New",
+   "h3: Anker Nano 45W Smart Display Charger (2-Pack)",
+   "span: 29 %",
+   "h3: Anker Nano USB-C Hub (8-in-1, Dual Display), 10 Gbps Speed, 85W Max Fast Laptop Charging",
+   "span: 32 %",
+   "h3: Anker Laptop Charger (140W, 4-Port, PD 3.1) with USB-C Cable + Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+   "span: 45 %",
+   "h3: Anker Laptop Power Bank (25K, 165W, Built-In and Retractable Cables)",
+   "h3: Anker Prime Power Bank (20K, 220W) + Anker USB-C to USB-C Cable (240W, Upcycled-Braided)",
+   "span: 25 %",
+   "span: Hot",
+   "h3: Anker Nano Power Bank (5K, MagGo, Slim)",
+   "span: 52 %",
+   "h3: Anker Prime Charger (100W, 3 Ports, GaN)"
+  ]
+ },
+ {
+  "i": 20,
+  "y": 4152,
+  "h": 53,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/eufy?ref=link_title"
+  ],
+  "text": [
+   "p: eufy"
+  ]
+ },
+ {
+  "i": 21,
+  "y": 4205,
+  "h": 500,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [
+   "50cb951712394439be9c0ca204705deb.mp4",
+   "50cb951712394439be9c0ca204705deb.mp4",
+   "50cb951712394439be9c0ca204705deb.mp4",
+   "50cb951712394439be9c0ca204705deb.mp4"
+  ],
+  "links": [
+   "/se?ref=image_p1_banner",
+   "https://www.ankernordics.com/eufy?ref=image_p1_banner"
+  ],
+  "text": [
+   "h3: Built with Care",
+   "a: Learn More"
+  ]
+ },
+ {
+  "i": 24,
+  "y": 4720,
+  "h": 473,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "Frame214722684911_1_3840x.png",
+    "alt": "eufyCam S4 4-Cam + Kit HomeBase S380",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Group4_3840x.png",
+    "alt": "eufy Robot Vacuum Omni S2",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "1200_1200-2_513ba094-94d6-4034-b688-294bd5bef892_3840x.png",
+    "alt": "eufy PoE NVR Security System S4 with 2× Bullet-PTZ-Cameras and 2× Bullet-Cameras",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "1TB_1_f53c9b6e-ed30-417a-81ce-c8b688fbb65d_3840x.png",
+    "alt": "eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "T8894_US_TD01_4_1_6859493b-8068-4b58-ac4e-6d6729031ef7_3840x.png",
+    "alt": "eufyCam S3 Pro 4-Cam Kit + Video Doorbell S220 Add-on",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "E814X3261_3840x.png",
+    "alt": "eufyCam C37 2K (4 Pack) + Homebase Mini + Solar Panel*4",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "T8170_4_d92579ef-b2a7-4690-9ff4-3cf877f703b1_3840x.png",
+    "alt": "SoloCam S340 (4 pack)",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "1_6b013fa9-0ddf-4a0f-a3ea-d186a23380a2_3840x.png",
+    "alt": "eufy 4G LTE Cam S330",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Group2147239025_3840x.png",
+    "alt": "eufy Robot Lawn Mower E18",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "/se/products/bundle-t81723w1-4-t80303d1-1?variant=50818388099350&ref=image_product_shelf",
+   "/se/products/t2081g11?variant=50460694249750&ref=image_product_shelf",
+   "/se/products/e8e00122?variant=50374465061142&ref=image_product_shelf",
+   "/se/products/bundle-t88733w1-1-t80301d1-81-1?variant=49662938349846&ref=image_product_shelf",
+   "/se/products/bundle-t88943w1-1-t82101w1-1?variant=49662979014934&ref=image_product_shelf",
+   "/se/products/eufycam-c37-2k-4-pack-homebase-mini-solar-panel-4?variant=51572380434710&ref=image_product_shelf",
+   "/se/products/bundle-t81703w1-4?variant=49662955815190&ref=image_product_shelf",
+   "/se/products/t86p2321?variant=49662961320214&ref=image_product_shelf",
+   "/se/products/t2801ga1?variant=50131656245526&ref=image_product_shelf"
+  ],
+  "text": [
+   "span: 28 %",
+   "span: New",
+   "h3: eufyCam S4 4-Cam + Kit HomeBase S380",
+   "button: Shop Now",
+   "span: 25 %",
+   "h3: eufy Robot Vacuum Omni S2",
+   "span: 45 %",
+   "h3: eufy PoE NVR Security System S4 with 2× Bullet-PTZ-Cameras and 2× Bullet-Cameras",
+   "span: 39 %",
+   "span: Best Seller",
+   "h3: eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive",
+   "span: 27 %",
+   "h3: eufyCam S3 Pro 4-Cam Kit + Video Doorbell S220 Add-on",
+   "h3: eufyCam C37 2K (4 Pack) + Homebase Mini + Solar Panel*4",
+   "span: 44 %",
+   "h3: SoloCam S340 (4 pack)",
+   "span: 38 %",
+   "h3: eufy 4G LTE Cam S330",
+   "span: 31 %",
+   "h3: eufy Robot Lawn Mower E18"
+  ]
+ },
+ {
+  "i": 26,
+  "y": 5249,
+  "h": 53,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/soundcore?ref=link_title"
+  ],
+  "text": [
+   "p: soundcore"
+  ]
+ },
+ {
+  "i": 27,
+  "y": 5302,
+  "h": 500,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [
+   "9beb9a270b504370bac18d35c53880ed.mp4",
+   "75ecf2b4c40b49fd83bd83478f0fd2e5.mp4",
+   "9beb9a270b504370bac18d35c53880ed.mp4",
+   "75ecf2b4c40b49fd83bd83478f0fd2e5.mp4"
+  ],
+  "links": [
+   "/se?ref=image_p1_banner",
+   "https://www.ankernordics.com/soundcore?ref=image_p1_banner"
+  ],
+  "text": [
+   "a: Learn More"
+  ]
+ },
+ {
+  "i": 30,
+  "y": 5817,
+  "h": 473,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "D1204_black_new_logo1_2878x.png",
+    "alt": "Liberty 5 Pro Max｜AI Recording Earbuds with Smart Case",
+    "w": 2000,
+    "h": 2000
+   },
+   {
+    "src": "D3200Z11_listing_image_07_US_V1_fb2d10ca-16b3-4bfd-a36e-71b0abb6aba41_3840x.png",
+    "alt": "soundcore Work | The World's First Coin-Sized AI Voice Recorder",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "Frame_2121237312_3840x.png",
+    "alt": "soundcore Space One | Active Noise Cancelling Headphones",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "image_1_268abe63-5273-43f6-bdbd-9bc7863c1f88_3840x.png",
+    "alt": "Nebula X1 | 4K Triple Laser Projector with Dolby Audio",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "538d79b9411849f594156447d71cdfe1_3840x.png",
+    "alt": "soundcore Nebula P1 | Portable Projector with Detachable Speakers",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "D2200_Richimage_DTC_TD01_US_V1_3840x.png",
+    "alt": "soundcore Nebula P1i | World's First Smart Portable Projector with Flippable Speakers",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "A3954N11_DTC_listing_image_TD01_US_V1_be103e63-36db-48d6-867b-15752574f1f5_1_3840x.png",
+    "alt": "soundcore Liberty 4 Pro | Noise Cancelling True-Wireless Earbuds",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "20251231-140552_3840x.png",
+    "alt": "soundcore Nebula X1 Pro 4K Projector | World's First Mobile Theater Station",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "/se/products/d1204?variant=51328970817814&ref=image_product_shelf",
+   "/se/products/d3200?variant=50672852369686&ref=image_product_shelf",
+   "/se/products/space-one-a3035011?variant=49663262195990&ref=image_product_shelf",
+   "/se/products/d2351-nebula-x1-4k-triple-laser-projector?variant=50053678760214&ref=image_product_shelf",
+   "/se/products/d2431-nebula-p1?variant=51075758293270&ref=image_product_shelf",
+   "/se/products/d2200-nebula-p1i?variant=51187332546838&ref=image_product_shelf",
+   "/se/products/a3954-liberty-4-pro-tws-earbuds?variant=49789812637974&ref=image_product_shelf",
+   "/se/products/d2151-nebula-x1-pro?variant=51007365644566&ref=image_product_shelf"
+  ],
+  "text": [
+   "span: Hot",
+   "span: New",
+   "h3: Liberty 5 Pro Max｜AI Recording Earbuds with Smart Case",
+   "button: Shop Now",
+   "span: 24 %",
+   "h3: soundcore Work | The World's First Coin-Sized AI Voice Recorder",
+   "span: 31 %",
+   "span: New Release",
+   "h3: soundcore Space One | Active Noise Cancelling Headphones",
+   "span: 43 %",
+   "h3: Nebula X1 | 4K Triple Laser Projector with Dolby Audio",
+   "h3: soundcore Nebula P1 | Portable Projector with Detachable Speakers",
+   "h3: soundcore Nebula P1i | World's First Smart Portable Projector with Flippable Speakers",
+   "span: 35 %",
+   "h3: soundcore Liberty 4 Pro | Noise Cancelling True-Wireless Earbuds",
+   "span: 36 %",
+   "h3: soundcore Nebula X1 Pro 4K Projector | World's First Mobile Theater Station"
+  ]
+ },
+ {
+  "i": 32,
+  "y": 6346,
+  "h": 758,
+  "cls": "relative z-20 h-screen w-full block-style_2sayleb aiui-dark",
+  "imgs": [],
+  "vids": [],
+  "links": [],
+  "text": [
+   "p: Why Shop With Anker Nordics"
+  ]
+ },
+ {
+  "i": 33,
+  "y": 5588,
+  "h": 2728,
+  "cls": "ipc-mediaplayersticky relative mt-[-200vh]",
+  "imgs": [
+   {
+    "src": "1e182377-861c-4cc2-85d4-e3829a4c8ffd_Group_1288114499.png",
+    "alt": "Anker with blue stripes for modern style",
+    "w": 3840,
+    "h": 1940
+   },
+   {
+    "src": "5ebd05f0-4970-4d43-afce-9c44ac1d757b_icon_bag-4_3840x.png",
+    "alt": "Shopping bag icon with handle for Anker",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "18b7be4b-45e5-421e-9164-2d284824f257_icon_delivered_3840x.png",
+    "alt": "Anker truck with checkmark for fast delivery",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "d07e2045-68c9-446d-a848-2c0daa056bbd_icon_In_transit-4_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "65ca41bf-3d46-466f-8c9f-f6a635649a9a_icon_security-2_3840x.png",
+    "alt": "Anker with shield and check for secure protection",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "72508d24-a17a-496a-be68-542bdc6d51ac_icon_30_day_warranty_3840x.png",
+    "alt": "Anker security badge with 30-day protection for peace",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "cc2c22cf-774a-484f-af05-d375ccdcefa9_ee5edd6de20a7af2f30f2fa976d779c9-2_3840x.png",
+    "alt": "Anker man with beige sweater, smiling, professional scene",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "de1729c9-3ed4-44b2-a6bd-f0f08e976728_c3269421a5343c0e59065b53bd81c8f5-2_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "ea58fcc4-3a0b-41b2-b985-83445eac3ce3_b0b7c87fb0819b6cd109bf4b0d865006-2_3840x.png",
+    "alt": "soundcore with happy person wearing headphones, joyful expression",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "adaefd40-46b3-4dd9-b74a-243c28dc0a8b_25954496272e3aad27d750494d4748ca-2_3840x.png",
+    "alt": "Anker man with sunglasses and cap in green grass",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "5061b437-6815-4d2d-bb16-f8f24c4b0332_85087c9c0ec8c86b481eaea247812c3e-2_3840x.png",
+    "alt": "Anker shirt with crew neck for casual wear",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [],
+  "text": [
+   "h3: AnkerCredits Rewards",
+   "p: Buy more, save more, and earn more.",
+   "h3: Over €100 Ships Free",
+   "h3: Fast Deliver",
+   "p: Fast shipping in 2-8 days",
+   "h3: Hassle-Free Warranty",
+   "p: Comprehensive warranty protection on all purchases.",
+   "h3: Up to 30-Day Returns",
+   "h3: We are Here to Help",
+   "p: Contact our expert team via email or live chat for assistance."
+  ]
+ },
+ {
+  "i": 35,
+  "y": 7614,
+  "h": 526,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [
+   {
+    "src": "26be05b9-1580-4355-b721-26f6808cc45a_Mask_group-5_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "f4da00ca-5526-4686-b030-1de576c53282_Frame_2121235191_3840x.png",
+    "alt": "Anker with man holding head for guitar performance",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "912d9cdb-9fe2-45d5-a51f-cad5ac987dc2_Mask_group-7_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "04206c46-b4ae-4872-8559-c38bca08de81_Frame_2121235189-3_3840x.png",
+    "alt": "Three French bulldogs with life jackets for enjoying pool time",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "ca30e632-630a-4f9f-b316-e910c53d433c_endorse-2-mobile_3840x.webp",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "31862e17-d1a0-4bab-a33c-338cb225402d_Frame_2121235741_3840x.png",
+    "alt": "Anker robotic lawn mower with shelter for trimming grass",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "18ae78b1-1023-45f9-8c3e-a670d8466c80_endorse-1-mobile_3840x.webp",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "fad2daab-1342-40b3-968e-9223c05ae1e9_Frame_2121235739_3840x.png",
+    "alt": "eufy robot cleaner removes stains from tile floor",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "https://www.youtube.com/watch?v=UejH5K-fVHs&ref=image_graphic",
+   "https://www.youtube.com/watch?v=pZIW6_s_XXY&ref=image_graphic",
+   "https://www.youtube.com/watch?v=MoB9z4hRokw&ref=image_graphic",
+   "https://www.youtube.com/watch?v=xkxrZuQwVac&ref=image_graphic",
+   "https://www.youtube.com/watch?v=Rqsa58QSW6Y&ref=image_graphic",
+   "https://www.youtube.com/shorts/hE6wAfGDhK8?ref=image_graphic"
+  ],
+  "text": [
+   "h2: RECOMMENDED BY",
+   "span: Anker providing powerful energy to keep the journey going.",
+   "h3: Anker providing powerful energy to keep the journey going.",
+   "h3: Happy Father’s Day from eufy to the heroes who always know",
+   "span: If you want portable power proven under the harshest conditions, Anker delivers.",
+   "h3: If you want portable power proven under the harshest conditions, Anker delivers.",
+   "span: Celebrating Dads with eufy this Father’s Day.",
+   "h3: Celebrating Dads with eufy this Father’s Day.",
+   "span: soundcore Liberty 4: You've Gotta Hear Them For Yourself!",
+   "h3: soundcore Liberty 4: You've Gotta Hear Them For Yourself!",
+   "span: This Robot Lawn Mower Just Changed Everything!",
+   "h3: This Robot Lawn Mower Just Changed Everything!",
+   "span: The Longest Lasting Headphones!",
+   "h3: The Longest Lasting Headphones!",
+   "h3: Still picking up hair every day? Give the eufy E28 a try."
+  ]
+ },
+ {
+  "i": 37,
+  "y": 8196,
+  "h": 53,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "imgs": [],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/blogs/se?ref=link_title"
+  ],
+  "text": [
+   "p: Featured Blogs and News"
+  ]
+ },
+ {
+  "i": 38,
+  "y": 8249,
+  "h": 381,
+  "cls": "block-style_2sam9qb",
+  "imgs": [
+   {
+    "src": "image1_e3bfa34c-89a2-4aad-aa40-03fb298b3245_3840x.jpg",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "image1_e3bfa34c-89a2-4aad-aa40-03fb298b3245_3840x.jpg",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "image1_8dcb1283-4995-4bb9-9a67-68b59afc4bd2_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "image1_8dcb1283-4995-4bb9-9a67-68b59afc4bd2_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "1ec53e0e-4f69-4972-a945-fcdc0d9cbca8.__CR0_0_2196_900_PT0_SX1464_V1_16bac4e5-70f7-422b-b99f-01db868caffa_3840x.jpg",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "1ec53e0e-4f69-4972-a945-fcdc0d9cbca8.__CR0_0_2196_900_PT0_SX1464_V1_16bac4e5-70f7-422b-b99f-01db868caffa_3840x.jpg",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "7481da2b-f5a2-43c9-b529-ac0358559616_Frame_4_1_-1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "7481da2b-f5a2-43c9-b529-ac0358559616_Frame_4_1_-1_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "6a80ff99-45b1-4cef-b5a1-e0d2e5bfa6d2_Frame_10_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "6a80ff99-45b1-4cef-b5a1-e0d2e5bfa6d2_Frame_10_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "a53d9e59-14ad-449b-a94b-28ef66561d37_Frame_12_3_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "a53d9e59-14ad-449b-a94b-28ef66561d37_Frame_12_3_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "79b9806e-7a1b-430a-9945-5cdb73a80e8f_Frame_13-3_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "79b9806e-7a1b-430a-9945-5cdb73a80e8f_Frame_13-3_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "7dd55546-6e17-4b7b-94cf-5d4041de8373_Frame_14-2_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "src": "7dd55546-6e17-4b7b-94cf-5d4041de8373_Frame_14-2_3840x.png",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vids": [],
+  "links": [
+   "https://www.ankernordics.com/blogs/se/projectors/outdoor-cinema-projector-for-world-cup?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/projectors/projector-best-in-test-world-cup?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/projectors/best-mini-projector-world-cup?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/robot-vacuum/floor-smells-after-mopping?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/chargers/connect-phone-to-tv-using-usb-c-to-hdmi-solution?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/chargers/45w-vs-65w-charger-for-phone-comparison?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/chargers/45w-vs-30w-charging-speed-iphone?ref=video_media_player_multi",
+   "https://www.ankernordics.com/blogs/se/chargers/45w-charger-for-daily-iphone-charging?ref=video_media_player_multi"
+  ],
+  "text": [
+   "h3: Projektor utomhus till VM 2026: Välj rätt modell för din trädgård, balkong eller sommarstuga",
+   "span: Learn More",
+   "h3: Projektor bäst i test 2026 – Topp 5 för VM och hemmabio",
+   "h3: Bästa mini projektorn för VM 2026: Topp 5 att titta på fotboll med",
+   "h3: Golvet luktar illa efter moppning: Fem orsaker och lösningar",
+   "h3: Så här ansluter du din telefon till TV:n med en USB-C till HDMI-adapter",
+   "h3: 45W vs 65W laddare för telefon: Vilken bör du välja?",
+   "h3: 45W vs 30W laddningshastighet: Hur mycket tid sparar du egentligen?",
+   "h3: Är en 45W-laddare bättre för daglig laddning av iPhone? Hastighet och batterihälsa"
+  ]
+ }
+]

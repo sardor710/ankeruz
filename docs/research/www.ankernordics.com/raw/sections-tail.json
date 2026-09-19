@@ -1,0 +1,418 @@
+{
+ "vw": 1920,
+ "s12": {
+  "h": 710,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "heads": [
+   "Explore All Brands during Sale",
+   "Pan-Tilt-Zoom Cameras",
+   "See more, secure more with 360° coverage",
+   "Robot Vacuum",
+   "Pan-Tilt-Zoom Cameras",
+   "See more, secure more with 360° coverage",
+   "Robot Vacuum"
+  ],
+  "imgs": [
+   {
+    "f": "a41385e5-a4d7-420a-ada1-ced25a2d083f_Frame_2",
+    "alt": "",
+    "w": 825,
+    "h": 641
+   },
+   {
+    "f": "f37fb55d-7cb0-485a-be6e-952063043701_Frame_2",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "ec53e5f4-d915-4625-bd49-1d13bbe5d60f_Frame_2",
+    "alt": "",
+    "w": 825,
+    "h": 641
+   },
+   {
+    "f": "a0d9270a-18a5-454c-acec-f759a7b6a3ac_Frame_2",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "a41385e5-a4d7-420a-ada1-ced25a2d083f_Frame_2",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "f37fb55d-7cb0-485a-be6e-952063043701_Frame_2",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "ec53e5f4-d915-4625-bd49-1d13bbe5d60f_Frame_2",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "a0d9270a-18a5-454c-acec-f759a7b6a3ac_Frame_2",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "links": [
+   "https://www.ankernordics.com/ptz-cam",
+   "https://www.ankernordics.com/collections/robot-vacuum",
+   "https://www.ankernordics.com/collections/robot-vacuums"
+  ],
+  "vids": 0
+ },
+ "s32": {
+  "h": 893,
+  "cls": "relative z-20 h-screen w-full block-style_2sayleb aiui-dark",
+  "heads": [
+   "Why Shop With Anker Nordics"
+  ],
+  "imgs": [],
+  "links": [],
+  "vids": 0
+ },
+ "s33": {
+  "h": 3301,
+  "cls": "ipc-mediaplayersticky relative mt-[-200vh]",
+  "heads": [
+   "AnkerCredits Rewards",
+   "Over €100 Ships Free",
+   "Fast Deliver",
+   "Hassle-Free Warranty",
+   "Up to 30-Day Returns",
+   "We are Here to Help"
+  ],
+  "imgs": [
+   {
+    "f": "1e182377-861c-4cc2-85d4-e3829a4c8ffd_Group_1",
+    "alt": "Anker with blue stripes for mo",
+    "w": 1903,
+    "h": 893
+   },
+   {
+    "f": "5ebd05f0-4970-4d43-afce-9c44ac1d757b_icon_ba",
+    "alt": "Shopping bag icon with handle ",
+    "w": 36,
+    "h": 36
+   },
+   {
+    "f": "18b7be4b-45e5-421e-9164-2d284824f257_icon_de",
+    "alt": "Anker truck with checkmark for",
+    "w": 36,
+    "h": 36
+   },
+   {
+    "f": "d07e2045-68c9-446d-a848-2c0daa056bbd_icon_In",
+    "alt": "",
+    "w": 36,
+    "h": 36
+   },
+   {
+    "f": "65ca41bf-3d46-466f-8c9f-f6a635649a9a_icon_se",
+    "alt": "Anker with shield and check fo",
+    "w": 36,
+    "h": 36
+   },
+   {
+    "f": "72508d24-a17a-496a-be68-542bdc6d51ac_icon_30",
+    "alt": "Anker security badge with 30-d",
+    "w": 36,
+    "h": 36
+   },
+   {
+    "f": "cc2c22cf-774a-484f-af05-d375ccdcefa9_ee5edd6",
+    "alt": "Anker man with beige sweater, ",
+    "w": 32,
+    "h": 32
+   },
+   {
+    "f": "de1729c9-3ed4-44b2-a6bd-f0f08e976728_c326942",
+    "alt": "",
+    "w": 32,
+    "h": 32
+   },
+   {
+    "f": "ea58fcc4-3a0b-41b2-b985-83445eac3ce3_b0b7c87",
+    "alt": "soundcore with happy person we",
+    "w": 32,
+    "h": 32
+   },
+   {
+    "f": "adaefd40-46b3-4dd9-b74a-243c28dc0a8b_2595449",
+    "alt": "Anker man with sunglasses and ",
+    "w": 32,
+    "h": 32
+   },
+   {
+    "f": "5061b437-6815-4d2d-bb16-f8f24c4b0332_85087c9",
+    "alt": "Anker shirt with crew neck for",
+    "w": 32,
+    "h": 32
+   }
+  ],
+  "links": [],
+  "vids": 0
+ },
+ "s35": {
+  "h": 549,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "heads": [
+   "RECOMMENDED BY",
+   "Anker providing powerful energy to keep the journey going.",
+   "Happy Father’s Day from eufy to the heroes who always know",
+   "If you want portable power proven under the harshest conditions, Anker delivers.",
+   "Celebrating Dads with eufy this Father’s Day.",
+   "soundcore Liberty 4: You've Gotta Hear Them For Yourself!",
+   "This Robot Lawn Mower Just Changed Everything!",
+   "The Longest Lasting Headphones!",
+   "Still picking up hair every day? Give the eufy E28 a try."
+  ],
+  "imgs": [
+   {
+    "f": "26be05b9-1580-4355-b721-26f6808cc45a_Mask_gr",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "f4da00ca-5526-4686-b030-1de576c53282_Frame_2",
+    "alt": "Anker with man holding head fo",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "912d9cdb-9fe2-45d5-a51f-cad5ac987dc2_Mask_gr",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "04206c46-b4ae-4872-8559-c38bca08de81_Frame_2",
+    "alt": "Three French bulldogs with lif",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "ca30e632-630a-4f9f-b316-e910c53d433c_endorse",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "31862e17-d1a0-4bab-a33c-338cb225402d_Frame_2",
+    "alt": "Anker robotic lawn mower with ",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "18ae78b1-1023-45f9-8c3e-a670d8466c80_endorse",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "fad2daab-1342-40b3-968e-9223c05ae1e9_Frame_2",
+    "alt": "eufy robot cleaner removes sta",
+    "w": 404,
+    "h": 480
+   }
+  ],
+  "links": [
+   "https://www.youtube.com/watch",
+   "https://www.youtube.com/shorts/hE6wAfGDhK8"
+  ],
+  "vids": 0
+ },
+ "s37": {
+  "h": 69,
+  "cls": "overflow-hidden ipc_container relative z-10 w-full",
+  "heads": [
+   "Featured Blogs and News"
+  ],
+  "imgs": [],
+  "links": [
+   "https://www.ankernordics.com/blogs/se"
+  ],
+  "vids": 0
+ },
+ "s38": {
+  "h": 501,
+  "cls": "block-style_2sam9qb",
+  "heads": [
+   "Projektor utomhus till VM 2026: Välj rätt modell för din trädgård, balkong eller sommarstuga",
+   "Projektor bäst i test 2026 – Topp 5 för VM och hemmabio",
+   "Bästa mini projektorn för VM 2026: Topp 5 att titta på fotboll med",
+   "Golvet luktar illa efter moppning: Fem orsaker och lösningar",
+   "Så här ansluter du din telefon till TV:n med en USB-C till HDMI-adapter",
+   "45W vs 65W laddare för telefon: Vilken bör du välja?",
+   "45W vs 30W laddningshastighet: Hur mycket tid sparar du egentligen?",
+   "Är en 45W-laddare bättre för daglig laddning av iPhone? Hastighet och batterihälsa"
+  ],
+  "imgs": [
+   {
+    "f": "1/0917/4807/3750/articles/image1_e3bfa34c-89",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "1/0917/4807/3750/articles/image1_e3bfa34c-89",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "1/0917/4807/3750/articles/image1_8dcb1283-49",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "1/0917/4807/3750/articles/image1_8dcb1283-49",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "1/0917/4807/3750/articles/1ec53e0e-4f69-4972",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "1/0917/4807/3750/articles/1ec53e0e-4f69-4972",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "7481da2b-f5a2-43c9-b529-ac0358559616_Frame_4",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "7481da2b-f5a2-43c9-b529-ac0358559616_Frame_4",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "6a80ff99-45b1-4cef-b5a1-e0d2e5bfa6d2_Frame_1",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "6a80ff99-45b1-4cef-b5a1-e0d2e5bfa6d2_Frame_1",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "a53d9e59-14ad-449b-a94b-28ef66561d37_Frame_1",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "a53d9e59-14ad-449b-a94b-28ef66561d37_Frame_1",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "79b9806e-7a1b-430a-9945-5cdb73a80e8f_Frame_1",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "79b9806e-7a1b-430a-9945-5cdb73a80e8f_Frame_1",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   },
+   {
+    "f": "7dd55546-6e17-4b7b-94cf-5d4041de8373_Frame_1",
+    "alt": "",
+    "w": 404,
+    "h": 480
+   },
+   {
+    "f": "7dd55546-6e17-4b7b-94cf-5d4041de8373_Frame_1",
+    "alt": "",
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "links": [
+   "https://www.ankernordics.com/blogs/se/projectors/outdoor-cinema-projector-for-world-cup",
+   "https://www.ankernordics.com/blogs/se/projectors/projector-best-in-test-world-cup",
+   "https://www.ankernordics.com/blogs/se/projectors/best-mini-projector-world-cup",
+   "https://www.ankernordics.com/blogs/se/robot-vacuum/floor-smells-after-mopping",
+   "https://www.ankernordics.com/blogs/se/chargers/connect-phone-to-tv-using-usb-c-to-hdmi-solution",
+   "https://www.ankernordics.com/blogs/se/chargers/45w-vs-65w-charger-for-phone-comparison",
+   "https://www.ankernordics.com/blogs/se/chargers/45w-vs-30w-charging-speed-iphone",
+   "https://www.ankernordics.com/blogs/se/chargers/45w-charger-for-daily-iphone-charging"
+  ],
+  "vids": 0
+ },
+ "footer": {
+  "tag": "FOOTER",
+  "h": 1207,
+  "cls": "block-style_4q5q4x",
+  "heads": [
+   "Subscribe now to get a gift with your first order!",
+   "Get an Exclusive 15% Off Your First Purchase",
+   "I agree to the Terms of Use and Privacy Policy.",
+   "Send me news and special offers. I can unsubscribe at any time",
+   "Company",
+   "Program",
+   "Support",
+   "Contact Us"
+  ],
+  "links": [
+   "/policies/terms-of-service",
+   "/policies/privacy-policy",
+   "https://www.ankernordics.com/about",
+   "https://via.tt.se/pressrum/3237203/anker-innovations",
+   "https://www.ankernordics.com/wheretobuy",
+   "https://www.ankernordics.com/contact-us",
+   "https://www.ankernordics.com/policies/terms-of-service",
+   "https://www.ankernordics.com/blogs/se",
+   "https://www.ankernordics.com/become-an-affiliate",
+   "https://www.ankernordics.com/corporate-purchase",
+   "https://www.ankernordics.com/newcustomer",
+   "https://www.ankernordics.com/ankernordiccredits-program",
+   "https://www.ankernordics.com/collections/refurbished",
+   "https://service.anker.com/eu/logistics",
+   "https://passport.ankernordics.com/search-orders",
+   "https://www.ankernordics.com/support",
+   "https://www.ankernordics.com/exchange",
+   "https://www.ankernordics.com/policies/refund-policy",
+   "https://www.ankernordics.com/policies/shipping-policy",
+   "https://www.ankernordics.com/policies/privacy-policy",
+   "https://www.ankernordics.com/rc2506",
+   "",
+   "https://www.instagram.com/anker_nordics/",
+   "https://www.tiktok.com/@eufy.nordics",
+   "https://www.linkedin.com/company/anker-nordics/",
+   "https://www.youtube.com/channel/UCPcOcLs7ZF0JCDg69CUvzdw",
+   "https://www.ankernordics.com/",
+   "https://www.ankernordics.com/anker",
+   "https://www.ankernordics.com/eufy",
+   "https://www.ankernordics.com/eufymake"
+  ],
+  "imgCount": 15,
+  "svgCount": 7
+ }
+}

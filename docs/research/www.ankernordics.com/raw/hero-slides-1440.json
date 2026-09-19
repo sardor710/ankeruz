@@ -1,0 +1,301 @@
+{
+ "vw": 1440,
+ "slides": [
+  {
+   "key": "The World's First Smart Scre",
+   "imgs": [
+    {
+     "file": "Group_2147239065_1_3838x.png",
+     "cls": "w-full h-full object-cover",
+     "pos": "static",
+     "z": "auto",
+     "fit": "cover",
+     "w": 1423,
+     "h": 632,
+     "nat": "2880x1395"
+    }
+   ],
+   "eyebrow": {
+    "t": "Liberty 5 Pro Series",
+    "fs": "14px",
+    "fw": "700",
+    "lh": "21px",
+    "ls": "-0.28px",
+    "col": "rgb(245, 246, 247)"
+   },
+   "btns": [
+    {
+     "t": "Learn MoreThe World'",
+     "href": "https://www.ankernordics.com/liberty-5-pro-series?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgba(0, 0, 0, 0)",
+     "col": "rgb(245, 246, 247)",
+     "bd": "0px solid rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 115,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    },
+    {
+     "t": "Liberty 5 Pro Series",
+     "href": "https://www.ankernordics.com/products/d1204?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgb(245, 246, 247)",
+     "col": "rgb(30, 32, 36)",
+     "bd": "0px none rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 168,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    }
+   ],
+   "contentBox": {
+    "cls": "hero-banner-wrap-text lg-desktop:max-w-[824px] desktop:max-w-[648px] laptop:max-w-[440px] ",
+    "pos": "static",
+    "left": 64,
+    "top": 394,
+    "w": 648,
+    "gap": "normal",
+    "disp": "block"
+   }
+  },
+  {
+   "key": "No Wire, No Hassle.Just eufy",
+   "imgs": [
+    {
+     "file": "7ce16887-e04e-451f-bd95-31b9fff19ce2_C15-KVx2-EN-PC-1_3838x.jpg",
+     "cls": "w-full h-full object-cover",
+     "pos": "static",
+     "z": "auto",
+     "fit": "cover",
+     "w": 1423,
+     "h": 632,
+     "nat": "3838x1859"
+    }
+   ],
+   "eyebrow": {
+    "t": "eufy Lawn Mower C15",
+    "fs": "14px",
+    "fw": "700",
+    "lh": "21px",
+    "ls": "-0.28px",
+    "col": "rgb(245, 246, 247)"
+   },
+   "btns": [
+    {
+     "t": "Learn MoreNo Wire, N",
+     "href": "https://www.ankernordics.com/eufy-c15-robot-lawn-mower?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgba(0, 0, 0, 0)",
+     "col": "rgb(245, 246, 247)",
+     "bd": "0px solid rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 115,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    },
+    {
+     "t": "Buy Now",
+     "href": "https://www.ankernordics.com/products/t280b3a2?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgb(245, 246, 247)",
+     "col": "rgb(30, 32, 36)",
+     "bd": "0px none rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 96,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    }
+   ],
+   "contentBox": {
+    "cls": "hero-banner-wrap-text lg-desktop:max-w-[824px] desktop:max-w-[648px] laptop:max-w-[440px] ",
+    "pos": "static",
+    "left": 47,
+    "top": 394,
+    "w": 648,
+    "gap": "normal",
+    "disp": "block"
+   }
+  },
+  {
+   "key": "15× Longer-Lasting SuctionDa",
+   "imgs": [
+    {
+     "file": "pc_1_3838x.png",
+     "cls": "w-full h-full object-cover",
+     "pos": "static",
+     "z": "auto",
+     "fit": "cover",
+     "w": 1423,
+     "h": 632,
+     "nat": "3838x1751"
+    }
+   ],
+   "eyebrow": {
+    "t": "eufy Robot Vacuum Omni S2",
+    "fs": "14px",
+    "fw": "700",
+    "lh": "21px",
+    "ls": "-0.28px",
+    "col": "rgb(245, 246, 247)"
+   },
+   "btns": [
+    {
+     "t": "Learn More15× Longer",
+     "href": "https://www.ankernordics.com/robot-vacuum-s2?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgba(0, 0, 0, 0)",
+     "col": "rgb(245, 246, 247)",
+     "bd": "0px solid rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 115,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    },
+    {
+     "t": "Buy Now",
+     "href": "https://www.ankernordics.com/products/t2081g11?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgb(245, 246, 247)",
+     "col": "rgb(30, 32, 36)",
+     "bd": "0px none rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 96,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    }
+   ],
+   "contentBox": {
+    "cls": "hero-banner-wrap-text lg-desktop:max-w-[824px] desktop:max-w-[648px] laptop:max-w-[440px] ",
+    "pos": "static",
+    "left": 30,
+    "top": 374,
+    "w": 648,
+    "gap": "normal",
+    "disp": "block"
+   }
+  },
+  {
+   "key": "The World's First Smart Disp",
+   "imgs": [
+    {
+     "file": "A121D_Final_07a25412-2d49-465e-a4af-437d6ac8d849_3838x.png",
+     "cls": "w-full h-full object-cover",
+     "pos": "static",
+     "z": "auto",
+     "fit": "cover",
+     "w": 1423,
+     "h": 632,
+     "nat": "3838x1859"
+    }
+   ],
+   "eyebrow": {
+    "t": "Anker Nano 45W Smart Display Charger",
+    "fs": "14px",
+    "fw": "700",
+    "lh": "21px",
+    "ls": "-0.28px",
+    "col": "rgb(8, 10, 15)"
+   },
+   "btns": [
+    {
+     "t": "Learn MoreThe World'",
+     "href": "https://www.ankernordics.com/a121d?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgba(0, 0, 0, 0)",
+     "col": "rgb(8, 10, 15)",
+     "bd": "0px solid rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 115,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    },
+    {
+     "t": "Buy Now",
+     "href": "https://www.ankernordics.com/products/anker-nano-45w-smart-display-charger?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgb(8, 10, 15)",
+     "col": "rgb(255, 255, 255)",
+     "bd": "0px none rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 96,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    }
+   ],
+   "contentBox": {
+    "cls": "hero-banner-wrap-text lg-desktop:max-w-[824px] desktop:max-w-[648px] laptop:max-w-[440px] ",
+    "pos": "static",
+    "left": 13,
+    "top": 394,
+    "w": 648,
+    "gap": "normal",
+    "disp": "block"
+   }
+  },
+  {
+   "key": "Ultimate Connection",
+   "imgs": [
+    {
+     "file": "20260629-144002_3838x.jpg",
+     "cls": "w-full h-full object-cover",
+     "pos": "static",
+     "z": "auto",
+     "fit": "cover",
+     "w": 1423,
+     "h": 632,
+     "nat": "1920x930"
+    }
+   ],
+   "eyebrow": {
+    "t": "Jul. 17-19/24-26 2026",
+    "fs": "14px",
+    "fw": "700",
+    "lh": "21px",
+    "ls": "-0.28px",
+    "col": "rgb(245, 246, 247)"
+   },
+   "btns": [
+    {
+     "t": "Learn More",
+     "href": "https://www.ankernordics.com/tomorrowland?ref=image_hero_banner",
+     "cls": "rounded-btn inline-flex cursor-pointer items-center justify-center font-bold focus-visible",
+     "bg": "rgb(245, 246, 247)",
+     "col": "rgb(30, 32, 36)",
+     "bd": "0px none rgb(229, 231, 235)",
+     "r2": "0px",
+     "pad": "11px 17.5px 10px",
+     "w": 115,
+     "h": 38,
+     "fs": "14px",
+     "fw": "700"
+    }
+   ],
+   "contentBox": {
+    "cls": "hero-banner-wrap-text lg-desktop:max-w-[824px] desktop:max-w-[648px] laptop:max-w-[440px] ",
+    "pos": "static",
+    "left": 1436,
+    "top": 410,
+    "w": 648,
+    "gap": "normal",
+    "disp": "block"
+   }
+  }
+ ]
+}

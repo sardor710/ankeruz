@@ -1,0 +1,106 @@
+{
+ "vw": 1440,
+ "heroH": 632.4375,
+ "slides": [
+  {
+   "i": 0,
+   "cls": "swiper-slide swiper-slide-0 swiper-slide-p",
+   "nodes": [
+    {
+     "tag": "h2",
+     "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px",
+     "html": "The World's First Smart Screen<br>Earbuds with Al Note-Taker.",
+     "fs": "40px",
+     "fw": "700",
+     "lh": "40px",
+     "ls": "-1.6px",
+     "col": "rgb(245, 246, 247)",
+     "w": 648,
+     "h": 80,
+     "left": 64,
+     "top": 415
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "cls": "swiper-slide swiper-slide-1 swiper-slide-a",
+   "nodes": [
+    {
+     "tag": "h2",
+     "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px",
+     "html": "No Wire, No Hassle.<br>Just eufy Al Vision.",
+     "fs": "40px",
+     "fw": "700",
+     "lh": "40px",
+     "ls": "-1.6px",
+     "col": "rgb(245, 246, 247)",
+     "w": 648,
+     "h": 80,
+     "left": 1487,
+     "top": 415
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "cls": "swiper-slide swiper-slide-2 swiper-slide-n",
+   "nodes": [
+    {
+     "tag": "h2",
+     "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px",
+     "html": "15× Longer-Lasting Suction<br>Day-One Deep Cleaning, All Year Long",
+     "fs": "40px",
+     "fw": "700",
+     "lh": "40px",
+     "ls": "-1.6px",
+     "col": "rgb(245, 246, 247)",
+     "w": 648,
+     "h": 120,
+     "left": 2910,
+     "top": 395
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "cls": "swiper-slide swiper-slide-3",
+   "nodes": [
+    {
+     "tag": "h2",
+     "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px",
+     "html": "The World's First Smart Display, <br>Charger That Knows Your iPhone.",
+     "fs": "40px",
+     "fw": "700",
+     "lh": "40px",
+     "ls": "-1.6px",
+     "col": "rgb(8, 10, 15)",
+     "w": 648,
+     "h": 80,
+     "left": 4333,
+     "top": 415
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "cls": "swiper-slide swiper-slide-4",
+   "nodes": [
+    {
+     "tag": "h2",
+     "cls": "text-balance tracking-[-0.04em] desktop:text-[40px] lg-desktop:text-[48px] text-[32px",
+     "html": "Ultimate Connection",
+     "fs": "40px",
+     "fw": "700",
+     "lh": "40px",
+     "ls": "-1.6px",
+     "col": "rgb(245, 246, 247)",
+     "w": 648,
+     "h": 40,
+     "left": 5756,
+     "top": 410
+    }
+   ]
+  }
+ ]
+}
